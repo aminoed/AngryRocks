@@ -1,0 +1,4552 @@
+fileFormatVersion: 2
+guid: c8bb1d305c2c27545bbc8ebe9a2ef402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3237519606189078726
+    second: Mobile - Diamond Digger Saga - Diamonds_0
+  - first:
+      213: -4975792325316868588
+    second: Mobile - Diamond Digger Saga - Diamonds_1
+  - first:
+      213: 2517036597953658835
+    second: Mobile - Diamond Digger Saga - Diamonds_2
+  - first:
+      213: 3328595058953521048
+    second: Mobile - Diamond Digger Saga - Diamonds_3
+  - first:
+      213: 8897375386352818071
+    second: Mobile - Diamond Digger Saga - Diamonds_4
+  - first:
+      213: -224037677853896661
+    second: Mobile - Diamond Digger Saga - Diamonds_5
+  - first:
+      213: 6531168588615756161
+    second: Mobile - Diamond Digger Saga - Diamonds_6
+  - first:
+      213: 4839177849910595245
+    second: Mobile - Diamond Digger Saga - Diamonds_7
+  - first:
+      213: 3657374154151177735
+    second: Mobile - Diamond Digger Saga - Diamonds_8
+  - first:
+      213: 8513317901070464327
+    second: Mobile - Diamond Digger Saga - Diamonds_9
+  - first:
+      213: -1960606023448817954
+    second: Mobile - Diamond Digger Saga - Diamonds_10
+  - first:
+      213: 4437104619065161956
+    second: Mobile - Diamond Digger Saga - Diamonds_11
+  - first:
+      213: 3090326324490390026
+    second: Mobile - Diamond Digger Saga - Diamonds_12
+  - first:
+      213: 7108788836226774200
+    second: Mobile - Diamond Digger Saga - Diamonds_13
+  - first:
+      213: 3435635673358566167
+    second: Mobile - Diamond Digger Saga - Diamonds_14
+  - first:
+      213: -3386226579110450103
+    second: Mobile - Diamond Digger Saga - Diamonds_15
+  - first:
+      213: -1902558100695573657
+    second: Mobile - Diamond Digger Saga - Diamonds_16
+  - first:
+      213: -6250125903620752722
+    second: Mobile - Diamond Digger Saga - Diamonds_17
+  - first:
+      213: -921936320024707873
+    second: Mobile - Diamond Digger Saga - Diamonds_18
+  - first:
+      213: 6675015393168899890
+    second: Mobile - Diamond Digger Saga - Diamonds_19
+  - first:
+      213: 232380878092971249
+    second: Mobile - Diamond Digger Saga - Diamonds_20
+  - first:
+      213: 6029321359033865439
+    second: Mobile - Diamond Digger Saga - Diamonds_21
+  - first:
+      213: 829815600735498696
+    second: Mobile - Diamond Digger Saga - Diamonds_22
+  - first:
+      213: 5755858584318180917
+    second: Mobile - Diamond Digger Saga - Diamonds_23
+  - first:
+      213: 1614926784960785893
+    second: Mobile - Diamond Digger Saga - Diamonds_24
+  - first:
+      213: -24503452020322597
+    second: Mobile - Diamond Digger Saga - Diamonds_25
+  - first:
+      213: -8080441398210852568
+    second: Mobile - Diamond Digger Saga - Diamonds_26
+  - first:
+      213: 6458059280666944379
+    second: Mobile - Diamond Digger Saga - Diamonds_27
+  - first:
+      213: -7343960326518950229
+    second: Mobile - Diamond Digger Saga - Diamonds_28
+  - first:
+      213: 4565049160260058592
+    second: Mobile - Diamond Digger Saga - Diamonds_29
+  - first:
+      213: 1251718677997891118
+    second: Mobile - Diamond Digger Saga - Diamonds_30
+  - first:
+      213: -2351173083535948245
+    second: Mobile - Diamond Digger Saga - Diamonds_31
+  - first:
+      213: 5897579774896673592
+    second: Mobile - Diamond Digger Saga - Diamonds_32
+  - first:
+      213: 7857684092978050376
+    second: Mobile - Diamond Digger Saga - Diamonds_33
+  - first:
+      213: -2724644091385873658
+    second: Mobile - Diamond Digger Saga - Diamonds_34
+  - first:
+      213: 6027770310413470260
+    second: Mobile - Diamond Digger Saga - Diamonds_35
+  - first:
+      213: 6552799421946068600
+    second: Mobile - Diamond Digger Saga - Diamonds_36
+  - first:
+      213: -8058407611269359478
+    second: Mobile - Diamond Digger Saga - Diamonds_37
+  - first:
+      213: 486077743444681057
+    second: Mobile - Diamond Digger Saga - Diamonds_38
+  - first:
+      213: 4560269515701325916
+    second: Mobile - Diamond Digger Saga - Diamonds_39
+  - first:
+      213: -6798755250719562393
+    second: Mobile - Diamond Digger Saga - Diamonds_40
+  - first:
+      213: -6583032435704624343
+    second: Mobile - Diamond Digger Saga - Diamonds_41
+  - first:
+      213: 3155264990465793353
+    second: Mobile - Diamond Digger Saga - Diamonds_42
+  - first:
+      213: -8533393786081892250
+    second: Mobile - Diamond Digger Saga - Diamonds_43
+  - first:
+      213: -1865013193983915562
+    second: Mobile - Diamond Digger Saga - Diamonds_44
+  - first:
+      213: 3971926165459187564
+    second: Mobile - Diamond Digger Saga - Diamonds_45
+  - first:
+      213: -1660103934028555185
+    second: Mobile - Diamond Digger Saga - Diamonds_46
+  - first:
+      213: 8368927196321483120
+    second: Mobile - Diamond Digger Saga - Diamonds_47
+  - first:
+      213: 4613947821378009623
+    second: Mobile - Diamond Digger Saga - Diamonds_48
+  - first:
+      213: 7206494249444279738
+    second: Mobile - Diamond Digger Saga - Diamonds_49
+  - first:
+      213: -8756767888970544938
+    second: Mobile - Diamond Digger Saga - Diamonds_50
+  - first:
+      213: 7139084111532886337
+    second: Mobile - Diamond Digger Saga - Diamonds_51
+  - first:
+      213: 1172806649512806892
+    second: Mobile - Diamond Digger Saga - Diamonds_52
+  - first:
+      213: 3936873993732024425
+    second: Mobile - Diamond Digger Saga - Diamonds_53
+  - first:
+      213: 4080409936973912345
+    second: Mobile - Diamond Digger Saga - Diamonds_54
+  - first:
+      213: 8658383138946397522
+    second: Mobile - Diamond Digger Saga - Diamonds_55
+  - first:
+      213: -7364729974296421458
+    second: Mobile - Diamond Digger Saga - Diamonds_56
+  - first:
+      213: 3674095165992981085
+    second: Mobile - Diamond Digger Saga - Diamonds_57
+  - first:
+      213: 5064042025898318070
+    second: Mobile - Diamond Digger Saga - Diamonds_58
+  - first:
+      213: -4979166918644995381
+    second: Mobile - Diamond Digger Saga - Diamonds_59
+  - first:
+      213: 6676959013017546966
+    second: Mobile - Diamond Digger Saga - Diamonds_60
+  - first:
+      213: -378488580225033681
+    second: Mobile - Diamond Digger Saga - Diamonds_61
+  - first:
+      213: -7295545823809117165
+    second: Mobile - Diamond Digger Saga - Diamonds_62
+  - first:
+      213: 4256860144636839302
+    second: Mobile - Diamond Digger Saga - Diamonds_63
+  - first:
+      213: 957377350092145770
+    second: Mobile - Diamond Digger Saga - Diamonds_64
+  - first:
+      213: 9194138358292967459
+    second: Mobile - Diamond Digger Saga - Diamonds_65
+  - first:
+      213: 448147036094927284
+    second: Mobile - Diamond Digger Saga - Diamonds_66
+  - first:
+      213: -2707938171883782350
+    second: Mobile - Diamond Digger Saga - Diamonds_67
+  - first:
+      213: 4502997119726544627
+    second: Mobile - Diamond Digger Saga - Diamonds_68
+  - first:
+      213: -5761139270427593144
+    second: Mobile - Diamond Digger Saga - Diamonds_69
+  - first:
+      213: 6199136202231921742
+    second: Mobile - Diamond Digger Saga - Diamonds_70
+  - first:
+      213: 3509072983714509247
+    second: Mobile - Diamond Digger Saga - Diamonds_71
+  - first:
+      213: 5911172040094610813
+    second: Mobile - Diamond Digger Saga - Diamonds_72
+  - first:
+      213: -6705317027830112043
+    second: Mobile - Diamond Digger Saga - Diamonds_73
+  - first:
+      213: -3529980122083210934
+    second: Mobile - Diamond Digger Saga - Diamonds_74
+  - first:
+      213: 2900263529939461305
+    second: Mobile - Diamond Digger Saga - Diamonds_75
+  - first:
+      213: 1514035356950524696
+    second: Mobile - Diamond Digger Saga - Diamonds_76
+  - first:
+      213: 6049237348613408467
+    second: Mobile - Diamond Digger Saga - Diamonds_77
+  - first:
+      213: 2652936669115164008
+    second: Mobile - Diamond Digger Saga - Diamonds_78
+  - first:
+      213: 6801984733367352820
+    second: Mobile - Diamond Digger Saga - Diamonds_79
+  - first:
+      213: 6954607186329182133
+    second: Mobile - Diamond Digger Saga - Diamonds_80
+  - first:
+      213: 6059166603029101522
+    second: Mobile - Diamond Digger Saga - Diamonds_81
+  - first:
+      213: -5094204666530385920
+    second: Mobile - Diamond Digger Saga - Diamonds_82
+  - first:
+      213: 4888345225439983901
+    second: Mobile - Diamond Digger Saga - Diamonds_83
+  - first:
+      213: -7544689773321320369
+    second: Mobile - Diamond Digger Saga - Diamonds_84
+  - first:
+      213: -4130699355540815699
+    second: Mobile - Diamond Digger Saga - Diamonds_85
+  - first:
+      213: -5161872800992898995
+    second: Mobile - Diamond Digger Saga - Diamonds_86
+  - first:
+      213: 2370472367111087983
+    second: Mobile - Diamond Digger Saga - Diamonds_87
+  - first:
+      213: 2842241380236478089
+    second: Mobile - Diamond Digger Saga - Diamonds_88
+  - first:
+      213: 2580117466250450736
+    second: Mobile - Diamond Digger Saga - Diamonds_89
+  - first:
+      213: 8110448055511764655
+    second: Mobile - Diamond Digger Saga - Diamonds_90
+  - first:
+      213: 3415569917831279413
+    second: Mobile - Diamond Digger Saga - Diamonds_91
+  - first:
+      213: 3090353953233412743
+    second: Mobile - Diamond Digger Saga - Diamonds_92
+  - first:
+      213: -5295185009920383972
+    second: Mobile - Diamond Digger Saga - Diamonds_93
+  - first:
+      213: 6684514341919965216
+    second: Mobile - Diamond Digger Saga - Diamonds_94
+  - first:
+      213: 8572686719627525985
+    second: Mobile - Diamond Digger Saga - Diamonds_95
+  - first:
+      213: -1142946205679672955
+    second: Mobile - Diamond Digger Saga - Diamonds_96
+  - first:
+      213: 4885744543736474414
+    second: Mobile - Diamond Digger Saga - Diamonds_97
+  - first:
+      213: -5149042837268240128
+    second: Mobile - Diamond Digger Saga - Diamonds_98
+  - first:
+      213: -3308954154648373758
+    second: Mobile - Diamond Digger Saga - Diamonds_99
+  - first:
+      213: -4278125514592918737
+    second: Mobile - Diamond Digger Saga - Diamonds_100
+  - first:
+      213: -6819745202172181083
+    second: Mobile - Diamond Digger Saga - Diamonds_101
+  - first:
+      213: 1645929683881277570
+    second: Mobile - Diamond Digger Saga - Diamonds_102
+  - first:
+      213: 365034309330657141
+    second: Mobile - Diamond Digger Saga - Diamonds_103
+  - first:
+      213: 1094886901315861585
+    second: Mobile - Diamond Digger Saga - Diamonds_104
+  - first:
+      213: -6192953749452687821
+    second: Mobile - Diamond Digger Saga - Diamonds_105
+  - first:
+      213: -546445220423997022
+    second: Mobile - Diamond Digger Saga - Diamonds_106
+  - first:
+      213: -3178276367598969132
+    second: Mobile - Diamond Digger Saga - Diamonds_107
+  - first:
+      213: -1593953951605194119
+    second: Mobile - Diamond Digger Saga - Diamonds_108
+  - first:
+      213: 4563163251589023807
+    second: Mobile - Diamond Digger Saga - Diamonds_109
+  - first:
+      213: -5824268996046155200
+    second: Mobile - Diamond Digger Saga - Diamonds_110
+  - first:
+      213: 879531780176118902
+    second: Mobile - Diamond Digger Saga - Diamonds_111
+  - first:
+      213: 3359564817006562092
+    second: Mobile - Diamond Digger Saga - Diamonds_112
+  - first:
+      213: -5485063071387440678
+    second: Mobile - Diamond Digger Saga - Diamonds_113
+  - first:
+      213: 4830941472397903160
+    second: Mobile - Diamond Digger Saga - Diamonds_114
+  - first:
+      213: 6349261959203008964
+    second: Mobile - Diamond Digger Saga - Diamonds_115
+  - first:
+      213: 8864042229496041828
+    second: Mobile - Diamond Digger Saga - Diamonds_116
+  - first:
+      213: -4780065347758228195
+    second: Mobile - Diamond Digger Saga - Diamonds_117
+  - first:
+      213: -9222802656870550099
+    second: Mobile - Diamond Digger Saga - Diamonds_118
+  - first:
+      213: -8038628844823634740
+    second: Mobile - Diamond Digger Saga - Diamonds_119
+  - first:
+      213: -8598148713097771509
+    second: Mobile - Diamond Digger Saga - Diamonds_120
+  - first:
+      213: 5555737607667897900
+    second: Mobile - Diamond Digger Saga - Diamonds_121
+  - first:
+      213: 6053039307499613780
+    second: Mobile - Diamond Digger Saga - Diamonds_122
+  - first:
+      213: -7833522449837088934
+    second: Mobile - Diamond Digger Saga - Diamonds_123
+  - first:
+      213: 176303338563841322
+    second: Mobile - Diamond Digger Saga - Diamonds_124
+  - first:
+      213: 119151076640335224
+    second: Mobile - Diamond Digger Saga - Diamonds_125
+  - first:
+      213: -5054614847616154489
+    second: Mobile - Diamond Digger Saga - Diamonds_126
+  - first:
+      213: 7820307511669202278
+    second: Mobile - Diamond Digger Saga - Diamonds_127
+  - first:
+      213: 1183628723637485104
+    second: Mobile - Diamond Digger Saga - Diamonds_128
+  - first:
+      213: 8778603740672092454
+    second: Mobile - Diamond Digger Saga - Diamonds_129
+  - first:
+      213: -3795002415806870296
+    second: Mobile - Diamond Digger Saga - Diamonds_130
+  - first:
+      213: -7514628842850326424
+    second: Mobile - Diamond Digger Saga - Diamonds_131
+  - first:
+      213: -6259307708648616367
+    second: Mobile - Diamond Digger Saga - Diamonds_132
+  - first:
+      213: -554125393613926991
+    second: Mobile - Diamond Digger Saga - Diamonds_133
+  - first:
+      213: 2522906291157013439
+    second: Mobile - Diamond Digger Saga - Diamonds_134
+  - first:
+      213: 8270661224924283793
+    second: Mobile - Diamond Digger Saga - Diamonds_135
+  - first:
+      213: -4141950846660495043
+    second: Mobile - Diamond Digger Saga - Diamonds_136
+  - first:
+      213: 5777691102030309280
+    second: Mobile - Diamond Digger Saga - Diamonds_137
+  - first:
+      213: 1464748862287874007
+    second: Mobile - Diamond Digger Saga - Diamonds_138
+  - first:
+      213: 1389662947738511011
+    second: Mobile - Diamond Digger Saga - Diamonds_139
+  - first:
+      213: 4928445949722908964
+    second: Mobile - Diamond Digger Saga - Diamonds_140
+  - first:
+      213: 8347632827401753116
+    second: Mobile - Diamond Digger Saga - Diamonds_141
+  - first:
+      213: 2997232254622118368
+    second: Mobile - Diamond Digger Saga - Diamonds_142
+  - first:
+      213: 805987527162159135
+    second: Mobile - Diamond Digger Saga - Diamonds_143
+  - first:
+      213: -6139792149540040691
+    second: Mobile - Diamond Digger Saga - Diamonds_144
+  - first:
+      213: -1530117213166537041
+    second: Mobile - Diamond Digger Saga - Diamonds_145
+  - first:
+      213: -4292347625511263069
+    second: Mobile - Diamond Digger Saga - Diamonds_146
+  - first:
+      213: 8158714942205480771
+    second: Mobile - Diamond Digger Saga - Diamonds_147
+  - first:
+      213: 7469681126605645981
+    second: Mobile - Diamond Digger Saga - Diamonds_148
+  - first:
+      213: -4605010529576401991
+    second: Mobile - Diamond Digger Saga - Diamonds_149
+  - first:
+      213: -6829519488790034387
+    second: Mobile - Diamond Digger Saga - Diamonds_150
+  - first:
+      213: 7177609362701087116
+    second: Mobile - Diamond Digger Saga - Diamonds_151
+  - first:
+      213: 7743318003510632115
+    second: Mobile - Diamond Digger Saga - Diamonds_152
+  - first:
+      213: -9101387716753058806
+    second: Mobile - Diamond Digger Saga - Diamonds_153
+  - first:
+      213: -4997604294192876308
+    second: Mobile - Diamond Digger Saga - Diamonds_154
+  - first:
+      213: -3352759369074736149
+    second: Mobile - Diamond Digger Saga - Diamonds_155
+  - first:
+      213: -3374633484489794878
+    second: Mobile - Diamond Digger Saga - Diamonds_156
+  - first:
+      213: 5987215410114220290
+    second: Mobile - Diamond Digger Saga - Diamonds_157
+  - first:
+      213: 3990668769534379704
+    second: Mobile - Diamond Digger Saga - Diamonds_158
+  - first:
+      213: -4040908165425314221
+    second: Mobile - Diamond Digger Saga - Diamonds_159
+  - first:
+      213: -7305121211066535595
+    second: Mobile - Diamond Digger Saga - Diamonds_160
+  - first:
+      213: -5079158591383871639
+    second: Mobile - Diamond Digger Saga - Diamonds_161
+  - first:
+      213: -1164774076820849039
+    second: Mobile - Diamond Digger Saga - Diamonds_162
+  - first:
+      213: 6888100652018897519
+    second: Mobile - Diamond Digger Saga - Diamonds_163
+  - first:
+      213: 2165241396684992069
+    second: Mobile - Diamond Digger Saga - Diamonds_164
+  - first:
+      213: 8666435193769973837
+    second: Mobile - Diamond Digger Saga - Diamonds_165
+  - first:
+      213: 4609573675659505537
+    second: Mobile - Diamond Digger Saga - Diamonds_166
+  - first:
+      213: -8063510523584756728
+    second: Mobile - Diamond Digger Saga - Diamonds_167
+  - first:
+      213: -5730358142256572332
+    second: Mobile - Diamond Digger Saga - Diamonds_168
+  - first:
+      213: -1610163950470699066
+    second: Mobile - Diamond Digger Saga - Diamonds_169
+  - first:
+      213: -3796779065598621607
+    second: Mobile - Diamond Digger Saga - Diamonds_170
+  - first:
+      213: -5035155966649656184
+    second: Mobile - Diamond Digger Saga - Diamonds_171
+  - first:
+      213: 2915346522482827764
+    second: Mobile - Diamond Digger Saga - Diamonds_172
+  - first:
+      213: 845762335884084004
+    second: Mobile - Diamond Digger Saga - Diamonds_173
+  - first:
+      213: -8602252802643918419
+    second: Mobile - Diamond Digger Saga - Diamonds_174
+  - first:
+      213: 2630325248144856070
+    second: Mobile - Diamond Digger Saga - Diamonds_175
+  - first:
+      213: 4854409512985696364
+    second: Mobile - Diamond Digger Saga - Diamonds_176
+  - first:
+      213: 7752094128679843961
+    second: Mobile - Diamond Digger Saga - Diamonds_177
+  - first:
+      213: -1461896937695282889
+    second: Mobile - Diamond Digger Saga - Diamonds_178
+  - first:
+      213: -6504574526519071846
+    second: Mobile - Diamond Digger Saga - Diamonds_179
+  - first:
+      213: -1018418651909650102
+    second: Mobile - Diamond Digger Saga - Diamonds_180
+  - first:
+      213: 6196054790154784478
+    second: Mobile - Diamond Digger Saga - Diamonds_181
+  - first:
+      213: -210788295434770458
+    second: Mobile - Diamond Digger Saga - Diamonds_182
+  - first:
+      213: 1842119718054291317
+    second: Mobile - Diamond Digger Saga - Diamonds_183
+  - first:
+      213: -4364386451069255098
+    second: Mobile - Diamond Digger Saga - Diamonds_184
+  - first:
+      213: 7870367980713565511
+    second: Mobile - Diamond Digger Saga - Diamonds_185
+  - first:
+      213: -1148870962627407606
+    second: Mobile - Diamond Digger Saga - Diamonds_186
+  - first:
+      213: 8268939948459579547
+    second: Mobile - Diamond Digger Saga - Diamonds_187
+  - first:
+      213: 7494923329274227571
+    second: Mobile - Diamond Digger Saga - Diamonds_188
+  - first:
+      213: -1538238614383723398
+    second: Mobile - Diamond Digger Saga - Diamonds_189
+  - first:
+      213: 212941305743592502
+    second: Mobile - Diamond Digger Saga - Diamonds_190
+  - first:
+      213: -9018096972649025784
+    second: Mobile - Diamond Digger Saga - Diamonds_191
+  - first:
+      213: 5971279846494761890
+    second: Mobile - Diamond Digger Saga - Diamonds_192
+  - first:
+      213: -2168506118274143358
+    second: Mobile - Diamond Digger Saga - Diamonds_193
+  - first:
+      213: -3739146381256945462
+    second: Mobile - Diamond Digger Saga - Diamonds_194
+  - first:
+      213: -2668196205882983981
+    second: Mobile - Diamond Digger Saga - Diamonds_195
+  - first:
+      213: -816517075123146179
+    second: Mobile - Diamond Digger Saga - Diamonds_196
+  - first:
+      213: 8972011247076441046
+    second: Mobile - Diamond Digger Saga - Diamonds_197
+  - first:
+      213: 4203705403215123514
+    second: Mobile - Diamond Digger Saga - Diamonds_198
+  - first:
+      213: -6577788373592074898
+    second: Mobile - Diamond Digger Saga - Diamonds_199
+  - first:
+      213: -5466800549167228376
+    second: Mobile - Diamond Digger Saga - Diamonds_200
+  - first:
+      213: 3254720696767207088
+    second: Mobile - Diamond Digger Saga - Diamonds_201
+  - first:
+      213: -2351619289053926731
+    second: Mobile - Diamond Digger Saga - Diamonds_202
+  - first:
+      213: 2724003800433153741
+    second: Mobile - Diamond Digger Saga - Diamonds_203
+  - first:
+      213: -2122505059369795854
+    second: Mobile - Diamond Digger Saga - Diamonds_204
+  - first:
+      213: -3467707177275114865
+    second: Mobile - Diamond Digger Saga - Diamonds_205
+  - first:
+      213: 3307524359614705849
+    second: Mobile - Diamond Digger Saga - Diamonds_206
+  - first:
+      213: -6851903078364992008
+    second: Mobile - Diamond Digger Saga - Diamonds_207
+  - first:
+      213: -9187307380022414823
+    second: Mobile - Diamond Digger Saga - Diamonds_208
+  - first:
+      213: 5763215292947580480
+    second: Mobile - Diamond Digger Saga - Diamonds_209
+  - first:
+      213: -921225217742611642
+    second: Mobile - Diamond Digger Saga - Diamonds_210
+  - first:
+      213: 105059890790701945
+    second: Mobile - Diamond Digger Saga - Diamonds_211
+  - first:
+      213: 6138390498292012563
+    second: Mobile - Diamond Digger Saga - Diamonds_212
+  - first:
+      213: 4724250032081039228
+    second: Mobile - Diamond Digger Saga - Diamonds_213
+  - first:
+      213: 4566085725061084543
+    second: Mobile - Diamond Digger Saga - Diamonds_214
+  - first:
+      213: -9031196838582263313
+    second: Mobile - Diamond Digger Saga - Diamonds_215
+  - first:
+      213: 8549488608587405327
+    second: Mobile - Diamond Digger Saga - Diamonds_216
+  - first:
+      213: -7954004553834996867
+    second: Mobile - Diamond Digger Saga - Diamonds_217
+  - first:
+      213: -32969916879509586
+    second: Mobile - Diamond Digger Saga - Diamonds_218
+  - first:
+      213: -3461722035088725797
+    second: Mobile - Diamond Digger Saga - Diamonds_219
+  - first:
+      213: -4156727564252686256
+    second: Mobile - Diamond Digger Saga - Diamonds_220
+  - first:
+      213: 1825909324348800967
+    second: Mobile - Diamond Digger Saga - Diamonds_221
+  - first:
+      213: 929587418185202158
+    second: Mobile - Diamond Digger Saga - Diamonds_222
+  - first:
+      213: 4480447464465921938
+    second: Mobile - Diamond Digger Saga - Diamonds_223
+  - first:
+      213: 1978256010198809248
+    second: Mobile - Diamond Digger Saga - Diamonds_224
+  - first:
+      213: 2706011803518562754
+    second: Mobile - Diamond Digger Saga - Diamonds_225
+  - first:
+      213: -6631858837043070489
+    second: Mobile - Diamond Digger Saga - Diamonds_226
+  - first:
+      213: 5079061491306075830
+    second: Mobile - Diamond Digger Saga - Diamonds_227
+  - first:
+      213: 790697086993397477
+    second: Mobile - Diamond Digger Saga - Diamonds_228
+  - first:
+      213: 6679907014970651377
+    second: Mobile - Diamond Digger Saga - Diamonds_229
+  - first:
+      213: 4012359067303420201
+    second: Mobile - Diamond Digger Saga - Diamonds_230
+  - first:
+      213: -7606568314512117904
+    second: Mobile - Diamond Digger Saga - Diamonds_231
+  - first:
+      213: 964740310099171928
+    second: Mobile - Diamond Digger Saga - Diamonds_232
+  - first:
+      213: 7573723773964187116
+    second: Mobile - Diamond Digger Saga - Diamonds_233
+  - first:
+      213: -3776415351612947205
+    second: Mobile - Diamond Digger Saga - Diamonds_234
+  - first:
+      213: -5413309650993704045
+    second: Mobile - Diamond Digger Saga - Diamonds_235
+  - first:
+      213: 8485631016145328923
+    second: Mobile - Diamond Digger Saga - Diamonds_236
+  - first:
+      213: 1437858872589097530
+    second: Mobile - Diamond Digger Saga - Diamonds_237
+  - first:
+      213: -6895898249364643110
+    second: Mobile - Diamond Digger Saga - Diamonds_238
+  - first:
+      213: 6339827100916456360
+    second: Mobile - Diamond Digger Saga - Diamonds_239
+  - first:
+      213: -8224184106781078902
+    second: Mobile - Diamond Digger Saga - Diamonds_240
+  - first:
+      213: 8756796761835070654
+    second: Mobile - Diamond Digger Saga - Diamonds_241
+  - first:
+      213: -108776147768847834
+    second: Mobile - Diamond Digger Saga - Diamonds_242
+  - first:
+      213: 6849025801285616772
+    second: Mobile - Diamond Digger Saga - Diamonds_243
+  - first:
+      213: -5706160802664592245
+    second: Mobile - Diamond Digger Saga - Diamonds_244
+  - first:
+      213: 1756444007201401716
+    second: Mobile - Diamond Digger Saga - Diamonds_245
+  - first:
+      213: -1852133791279389454
+    second: Mobile - Diamond Digger Saga - Diamonds_246
+  - first:
+      213: -4391826843155348941
+    second: Mobile - Diamond Digger Saga - Diamonds_247
+  - first:
+      213: -7111584733749154127
+    second: Mobile - Diamond Digger Saga - Diamonds_248
+  - first:
+      213: 5360631367434241127
+    second: Mobile - Diamond Digger Saga - Diamonds_249
+  - first:
+      213: 6263397751046323551
+    second: Mobile - Diamond Digger Saga - Diamonds_250
+  - first:
+      213: 771634775230471224
+    second: Mobile - Diamond Digger Saga - Diamonds_251
+  - first:
+      213: -525288002382446081
+    second: Mobile - Diamond Digger Saga - Diamonds_252
+  - first:
+      213: -1136962790692523213
+    second: Mobile - Diamond Digger Saga - Diamonds_253
+  - first:
+      213: -586882770459694471
+    second: Mobile - Diamond Digger Saga - Diamonds_254
+  - first:
+      213: -311260419553465484
+    second: Mobile - Diamond Digger Saga - Diamonds_255
+  - first:
+      213: 8940313676587511996
+    second: Mobile - Diamond Digger Saga - Diamonds_256
+  - first:
+      213: -5522329958151964735
+    second: Mobile - Diamond Digger Saga - Diamonds_257
+  - first:
+      213: 1071564503058651546
+    second: Mobile - Diamond Digger Saga - Diamonds_258
+  - first:
+      213: 796329907902743897
+    second: Mobile - Diamond Digger Saga - Diamonds_259
+  - first:
+      213: -5336760391626738677
+    second: Mobile - Diamond Digger Saga - Diamonds_260
+  - first:
+      213: -5915833216280008562
+    second: Mobile - Diamond Digger Saga - Diamonds_261
+  - first:
+      213: -746869988246646634
+    second: Mobile - Diamond Digger Saga - Diamonds_262
+  - first:
+      213: -5652393047753775372
+    second: Mobile - Diamond Digger Saga - Diamonds_263
+  - first:
+      213: 7185195315259207380
+    second: Mobile - Diamond Digger Saga - Diamonds_264
+  - first:
+      213: -1511969492158848204
+    second: Mobile - Diamond Digger Saga - Diamonds_265
+  - first:
+      213: 2087654091112763510
+    second: Mobile - Diamond Digger Saga - Diamonds_266
+  - first:
+      213: -2347840901297115892
+    second: Mobile - Diamond Digger Saga - Diamonds_267
+  - first:
+      213: 2140000306703867954
+    second: Mobile - Diamond Digger Saga - Diamonds_268
+  - first:
+      213: 2830191983897830470
+    second: Mobile - Diamond Digger Saga - Diamonds_269
+  - first:
+      213: -5079804158407657821
+    second: Mobile - Diamond Digger Saga - Diamonds_270
+  - first:
+      213: 7069603469388236783
+    second: Mobile - Diamond Digger Saga - Diamonds_271
+  - first:
+      213: -709348201549155766
+    second: Mobile - Diamond Digger Saga - Diamonds_272
+  - first:
+      213: -3891155934842061355
+    second: Mobile - Diamond Digger Saga - Diamonds_273
+  - first:
+      213: -575454571314755051
+    second: Mobile - Diamond Digger Saga - Diamonds_274
+  - first:
+      213: 1612354023962108919
+    second: Mobile - Diamond Digger Saga - Diamonds_275
+  - first:
+      213: -2355557231868169273
+    second: Mobile - Diamond Digger Saga - Diamonds_276
+  - first:
+      213: 5403318115133282193
+    second: Mobile - Diamond Digger Saga - Diamonds_277
+  - first:
+      213: 3803481353906454760
+    second: Mobile - Diamond Digger Saga - Diamonds_278
+  - first:
+      213: 2011960459799292970
+    second: Mobile - Diamond Digger Saga - Diamonds_279
+  - first:
+      213: 5882571525656621739
+    second: Mobile - Diamond Digger Saga - Diamonds_280
+  - first:
+      213: 6244777189537165056
+    second: Mobile - Diamond Digger Saga - Diamonds_281
+  - first:
+      213: -1529621774168509221
+    second: Mobile - Diamond Digger Saga - Diamonds_282
+  - first:
+      213: -2303061340042791176
+    second: Mobile - Diamond Digger Saga - Diamonds_283
+  - first:
+      213: 6025965095953504791
+    second: Mobile - Diamond Digger Saga - Diamonds_284
+  - first:
+      213: -7933921160673884904
+    second: Mobile - Diamond Digger Saga - Diamonds_285
+  - first:
+      213: -6507033987325989931
+    second: Mobile - Diamond Digger Saga - Diamonds_286
+  - first:
+      213: -1190264468890083206
+    second: Mobile - Diamond Digger Saga - Diamonds_287
+  - first:
+      213: 3357361040762391923
+    second: Mobile - Diamond Digger Saga - Diamonds_288
+  - first:
+      213: -2562059750913512800
+    second: Mobile - Diamond Digger Saga - Diamonds_289
+  - first:
+      213: -7046682671020944135
+    second: Mobile - Diamond Digger Saga - Diamonds_290
+  - first:
+      213: -7429182625942311237
+    second: Mobile - Diamond Digger Saga - Diamonds_291
+  - first:
+      213: -6555126548466338133
+    second: Mobile - Diamond Digger Saga - Diamonds_292
+  - first:
+      213: 5971374630690293839
+    second: Mobile - Diamond Digger Saga - Diamonds_293
+  - first:
+      213: -3429027932319553223
+    second: Mobile - Diamond Digger Saga - Diamonds_294
+  - first:
+      213: 7506335809131718216
+    second: Mobile - Diamond Digger Saga - Diamonds_295
+  - first:
+      213: 4728829434507568202
+    second: Mobile - Diamond Digger Saga - Diamonds_296
+  - first:
+      213: 7372529058655647162
+    second: Mobile - Diamond Digger Saga - Diamonds_297
+  - first:
+      213: -8743765856612821059
+    second: Mobile - Diamond Digger Saga - Diamonds_298
+  - first:
+      213: -3583581879222950865
+    second: Mobile - Diamond Digger Saga - Diamonds_299
+  - first:
+      213: 8255551014503862806
+    second: Mobile - Diamond Digger Saga - Diamonds_300
+  - first:
+      213: -5861774958955588172
+    second: Mobile - Diamond Digger Saga - Diamonds_301
+  - first:
+      213: -439774747126876986
+    second: Mobile - Diamond Digger Saga - Diamonds_302
+  - first:
+      213: 8325906504272221787
+    second: Mobile - Diamond Digger Saga - Diamonds_303
+  - first:
+      213: -2776556480786947590
+    second: Mobile - Diamond Digger Saga - Diamonds_304
+  - first:
+      213: -853890143206268430
+    second: Mobile - Diamond Digger Saga - Diamonds_305
+  - first:
+      213: 6787360354989974829
+    second: Mobile - Diamond Digger Saga - Diamonds_306
+  - first:
+      213: -3675449227609441146
+    second: Mobile - Diamond Digger Saga - Diamonds_307
+  - first:
+      213: 2033206651598310390
+    second: Mobile - Diamond Digger Saga - Diamonds_308
+  - first:
+      213: 818805981346350986
+    second: Mobile - Diamond Digger Saga - Diamonds_309
+  - first:
+      213: -5702285422715560944
+    second: Mobile - Diamond Digger Saga - Diamonds_310
+  - first:
+      213: 6951853550052300762
+    second: Mobile - Diamond Digger Saga - Diamonds_311
+  - first:
+      213: 8340566996485209735
+    second: Mobile - Diamond Digger Saga - Diamonds_312
+  - first:
+      213: 5104834216713274348
+    second: Mobile - Diamond Digger Saga - Diamonds_313
+  - first:
+      213: 7178361142162333267
+    second: Mobile - Diamond Digger Saga - Diamonds_314
+  - first:
+      213: 4269996332379845416
+    second: Mobile - Diamond Digger Saga - Diamonds_315
+  - first:
+      213: -3118696719931486837
+    second: Mobile - Diamond Digger Saga - Diamonds_316
+  - first:
+      213: -8443113564834465752
+    second: Mobile - Diamond Digger Saga - Diamonds_317
+  - first:
+      213: 7492358287581077041
+    second: Mobile - Diamond Digger Saga - Diamonds_318
+  - first:
+      213: -913574184232011325
+    second: Mobile - Diamond Digger Saga - Diamonds_319
+  - first:
+      213: 1581907830988522498
+    second: Mobile - Diamond Digger Saga - Diamonds_320
+  - first:
+      213: 3138092310648607947
+    second: Mobile - Diamond Digger Saga - Diamonds_321
+  - first:
+      213: -8603250741093426133
+    second: Mobile - Diamond Digger Saga - Diamonds_322
+  - first:
+      213: -4028465618444536764
+    second: Mobile - Diamond Digger Saga - Diamonds_323
+  - first:
+      213: -2752771824394496825
+    second: Mobile - Diamond Digger Saga - Diamonds_324
+  - first:
+      213: 2866207694885255791
+    second: Mobile - Diamond Digger Saga - Diamonds_325
+  - first:
+      213: -3922041720089081182
+    second: Mobile - Diamond Digger Saga - Diamonds_326
+  - first:
+      213: 6441980176022147330
+    second: Mobile - Diamond Digger Saga - Diamonds_327
+  - first:
+      213: -171359978255287366
+    second: Mobile - Diamond Digger Saga - Diamonds_328
+  - first:
+      213: 8576288309741004461
+    second: Mobile - Diamond Digger Saga - Diamonds_329
+  - first:
+      213: -2497141067885786356
+    second: Mobile - Diamond Digger Saga - Diamonds_330
+  - first:
+      213: -7625231768887705542
+    second: Mobile - Diamond Digger Saga - Diamonds_331
+  - first:
+      213: -6567840146636072269
+    second: Mobile - Diamond Digger Saga - Diamonds_332
+  - first:
+      213: -2975747126410906176
+    second: Mobile - Diamond Digger Saga - Diamonds_333
+  - first:
+      213: 1174759560207893281
+    second: Mobile - Diamond Digger Saga - Diamonds_334
+  - first:
+      213: 3589303064625063803
+    second: Mobile - Diamond Digger Saga - Diamonds_335
+  - first:
+      213: -2996810023652219853
+    second: Mobile - Diamond Digger Saga - Diamonds_336
+  - first:
+      213: -6304250758389649772
+    second: Mobile - Diamond Digger Saga - Diamonds_337
+  - first:
+      213: -3760481619099463154
+    second: Mobile - Diamond Digger Saga - Diamonds_338
+  - first:
+      213: 2473251871708523601
+    second: Mobile - Diamond Digger Saga - Diamonds_339
+  - first:
+      213: 391377688103889275
+    second: Mobile - Diamond Digger Saga - Diamonds_340
+  - first:
+      213: 8371062937137927873
+    second: Mobile - Diamond Digger Saga - Diamonds_341
+  - first:
+      213: 9015505880855596798
+    second: Mobile - Diamond Digger Saga - Diamonds_342
+  - first:
+      213: -3231339275407714343
+    second: Mobile - Diamond Digger Saga - Diamonds_343
+  - first:
+      213: -4162565663497991095
+    second: Mobile - Diamond Digger Saga - Diamonds_344
+  - first:
+      213: -6208210421447972041
+    second: Mobile - Diamond Digger Saga - Diamonds_345
+  - first:
+      213: -1624345729779432149
+    second: Mobile - Diamond Digger Saga - Diamonds_346
+  - first:
+      213: -2738459717822434943
+    second: Mobile - Diamond Digger Saga - Diamonds_347
+  - first:
+      213: -6569971409625722901
+    second: Mobile - Diamond Digger Saga - Diamonds_348
+  - first:
+      213: 5874208446143562063
+    second: Mobile - Diamond Digger Saga - Diamonds_349
+  - first:
+      213: -3789627805657714922
+    second: Mobile - Diamond Digger Saga - Diamonds_350
+  - first:
+      213: 7003564640677815058
+    second: Mobile - Diamond Digger Saga - Diamonds_351
+  - first:
+      213: -5340701850344034369
+    second: Mobile - Diamond Digger Saga - Diamonds_352
+  - first:
+      213: -2880535795098634096
+    second: Mobile - Diamond Digger Saga - Diamonds_353
+  - first:
+      213: 3085144910318683812
+    second: Mobile - Diamond Digger Saga - Diamonds_354
+  - first:
+      213: -6793370634227204471
+    second: Mobile - Diamond Digger Saga - Diamonds_355
+  - first:
+      213: -1738453306947906830
+    second: Mobile - Diamond Digger Saga - Diamonds_356
+  - first:
+      213: -9073808081810253704
+    second: Mobile - Diamond Digger Saga - Diamonds_357
+  - first:
+      213: -3535803239026491027
+    second: Mobile - Diamond Digger Saga - Diamonds_358
+  - first:
+      213: -3904418226896313630
+    second: Mobile - Diamond Digger Saga - Diamonds_359
+  - first:
+      213: -4867629719351288772
+    second: Mobile - Diamond Digger Saga - Diamonds_360
+  - first:
+      213: 6179208141903553898
+    second: Mobile - Diamond Digger Saga - Diamonds_361
+  - first:
+      213: -7691545655323347703
+    second: Mobile - Diamond Digger Saga - Diamonds_362
+  - first:
+      213: -5783248029474717175
+    second: Mobile - Diamond Digger Saga - Diamonds_363
+  - first:
+      213: 8021619825398374678
+    second: Mobile - Diamond Digger Saga - Diamonds_364
+  - first:
+      213: 582551006068333614
+    second: Mobile - Diamond Digger Saga - Diamonds_365
+  - first:
+      213: -6915234682996280948
+    second: Mobile - Diamond Digger Saga - Diamonds_366
+  - first:
+      213: 9094390209315218098
+    second: Mobile - Diamond Digger Saga - Diamonds_367
+  - first:
+      213: -1747420553457119407
+    second: Mobile - Diamond Digger Saga - Diamonds_368
+  - first:
+      213: 289945638319365229
+    second: Mobile - Diamond Digger Saga - Diamonds_369
+  - first:
+      213: -3483093631644715235
+    second: Mobile - Diamond Digger Saga - Diamonds_370
+  - first:
+      213: 4583634653366025220
+    second: Mobile - Diamond Digger Saga - Diamonds_371
+  - first:
+      213: 7931047844548089945
+    second: Mobile - Diamond Digger Saga - Diamonds_372
+  - first:
+      213: -6022111029935292077
+    second: Mobile - Diamond Digger Saga - Diamonds_373
+  - first:
+      213: 1878265226214486831
+    second: Mobile - Diamond Digger Saga - Diamonds_374
+  - first:
+      213: -2191367637353095700
+    second: Mobile - Diamond Digger Saga - Diamonds_375
+  - first:
+      213: 143325071975380757
+    second: Mobile - Diamond Digger Saga - Diamonds_376
+  - first:
+      213: 1669766295736411775
+    second: Mobile - Diamond Digger Saga - Diamonds_377
+  - first:
+      213: 651933107552813335
+    second: Mobile - Diamond Digger Saga - Diamonds_378
+  - first:
+      213: 2517723081779011985
+    second: Mobile - Diamond Digger Saga - Diamonds_379
+  - first:
+      213: 2034246563025000141
+    second: Mobile - Diamond Digger Saga - Diamonds_380
+  - first:
+      213: -686647224462088718
+    second: Mobile - Diamond Digger Saga - Diamonds_381
+  - first:
+      213: 1324453574505125703
+    second: Mobile - Diamond Digger Saga - Diamonds_382
+  - first:
+      213: 3209287601392934307
+    second: Mobile - Diamond Digger Saga - Diamonds_383
+  - first:
+      213: 3134534797018624600
+    second: Mobile - Diamond Digger Saga - Diamonds_384
+  - first:
+      213: -2262955389568831119
+    second: Mobile - Diamond Digger Saga - Diamonds_385
+  - first:
+      213: -4945649789559535101
+    second: Mobile - Diamond Digger Saga - Diamonds_386
+  - first:
+      213: 7075168901450918627
+    second: Mobile - Diamond Digger Saga - Diamonds_387
+  - first:
+      213: 5352041862881079526
+    second: Mobile - Diamond Digger Saga - Diamonds_388
+  - first:
+      213: 6125061367583779535
+    second: Mobile - Diamond Digger Saga - Diamonds_389
+  - first:
+      213: 152275225540009404
+    second: Mobile - Diamond Digger Saga - Diamonds_390
+  - first:
+      213: -7298046286818639739
+    second: Mobile - Diamond Digger Saga - Diamonds_391
+  - first:
+      213: -2190029681933733008
+    second: Mobile - Diamond Digger Saga - Diamonds_392
+  - first:
+      213: -2195624652934938125
+    second: Mobile - Diamond Digger Saga - Diamonds_393
+  - first:
+      213: -4066917238491230367
+    second: Mobile - Diamond Digger Saga - Diamonds_394
+  - first:
+      213: -4692824327706049041
+    second: Mobile - Diamond Digger Saga - Diamonds_395
+  - first:
+      213: 4574892888992222062
+    second: Mobile - Diamond Digger Saga - Diamonds_396
+  - first:
+      213: -1719284510705976582
+    second: Mobile - Diamond Digger Saga - Diamonds_397
+  - first:
+      213: -5703153766444694723
+    second: Mobile - Diamond Digger Saga - Diamonds_398
+  - first:
+      213: -4609083409526300826
+    second: Mobile - Diamond Digger Saga - Diamonds_399
+  - first:
+      213: 7147478980106679949
+    second: Mobile - Diamond Digger Saga - Diamonds_400
+  - first:
+      213: 1365280921346117685
+    second: Mobile - Diamond Digger Saga - Diamonds_401
+  - first:
+      213: -8134218751977964423
+    second: Mobile - Diamond Digger Saga - Diamonds_402
+  - first:
+      213: 8552085549690567570
+    second: Mobile - Diamond Digger Saga - Diamonds_403
+  - first:
+      213: 900428339738409542
+    second: Mobile - Diamond Digger Saga - Diamonds_404
+  - first:
+      213: 7094308823556139499
+    second: Mobile - Diamond Digger Saga - Diamonds_405
+  - first:
+      213: -4217217377025144402
+    second: Mobile - Diamond Digger Saga - Diamonds_406
+  - first:
+      213: 4738275116203597374
+    second: Mobile - Diamond Digger Saga - Diamonds_407
+  - first:
+      213: 6630433303625291629
+    second: Mobile - Diamond Digger Saga - Diamonds_408
+  - first:
+      213: 4561509238953400875
+    second: Mobile - Diamond Digger Saga - Diamonds_409
+  - first:
+      213: 2405368333247717452
+    second: Mobile - Diamond Digger Saga - Diamonds_410
+  - first:
+      213: -3008921744965891410
+    second: Mobile - Diamond Digger Saga - Diamonds_411
+  - first:
+      213: -2821450200646750679
+    second: Mobile - Diamond Digger Saga - Diamonds_412
+  - first:
+      213: 935213530908005836
+    second: Mobile - Diamond Digger Saga - Diamonds_413
+  - first:
+      213: -8458610881128299208
+    second: Mobile - Diamond Digger Saga - Diamonds_414
+  - first:
+      213: -453188019911996089
+    second: Mobile - Diamond Digger Saga - Diamonds_415
+  - first:
+      213: -6302234571062093888
+    second: Mobile - Diamond Digger Saga - Diamonds_416
+  - first:
+      213: -5161714603074985112
+    second: Mobile - Diamond Digger Saga - Diamonds_417
+  - first:
+      213: -479833986022730471
+    second: Mobile - Diamond Digger Saga - Diamonds_418
+  - first:
+      213: -4736892243158580753
+    second: Mobile - Diamond Digger Saga - Diamonds_419
+  - first:
+      213: -7948997330102289419
+    second: Mobile - Diamond Digger Saga - Diamonds_420
+  - first:
+      213: -7966721481025980214
+    second: Mobile - Diamond Digger Saga - Diamonds_421
+  - first:
+      213: -2684617973887066654
+    second: Mobile - Diamond Digger Saga - Diamonds_422
+  - first:
+      213: 1207943406094065727
+    second: Mobile - Diamond Digger Saga - Diamonds_423
+  - first:
+      213: -2907393535426012455
+    second: Mobile - Diamond Digger Saga - Diamonds_424
+  - first:
+      213: -7646031726077369022
+    second: Mobile - Diamond Digger Saga - Diamonds_425
+  - first:
+      213: 1665824206762628224
+    second: Mobile - Diamond Digger Saga - Diamonds_426
+  - first:
+      213: 4940477625117857099
+    second: Mobile - Diamond Digger Saga - Diamonds_427
+  - first:
+      213: -7229146974073707213
+    second: Mobile - Diamond Digger Saga - Diamonds_428
+  - first:
+      213: 3286901830717089699
+    second: Mobile - Diamond Digger Saga - Diamonds_429
+  - first:
+      213: -6684087037185495022
+    second: Mobile - Diamond Digger Saga - Diamonds_430
+  - first:
+      213: -1481803196167106471
+    second: Mobile - Diamond Digger Saga - Diamonds_431
+  - first:
+      213: -4494776231863638419
+    second: Mobile - Diamond Digger Saga - Diamonds_432
+  - first:
+      213: -4580943260195551136
+    second: Mobile - Diamond Digger Saga - Diamonds_433
+  - first:
+      213: -7406892873031023827
+    second: Mobile - Diamond Digger Saga - Diamonds_434
+  - first:
+      213: 4263473480677581638
+    second: Mobile - Diamond Digger Saga - Diamonds_435
+  - first:
+      213: 1259015250134989679
+    second: Mobile - Diamond Digger Saga - Diamonds_436
+  - first:
+      213: 1274421449952539598
+    second: Mobile - Diamond Digger Saga - Diamonds_437
+  - first:
+      213: 7967600544407689263
+    second: Mobile - Diamond Digger Saga - Diamonds_438
+  - first:
+      213: -2525409830170956724
+    second: Mobile - Diamond Digger Saga - Diamonds_439
+  - first:
+      213: 3721923251224366031
+    second: Mobile - Diamond Digger Saga - Diamonds_440
+  - first:
+      213: -6133545378793972174
+    second: Mobile - Diamond Digger Saga - Diamonds_441
+  - first:
+      213: 2406202183904236401
+    second: Mobile - Diamond Digger Saga - Diamonds_442
+  - first:
+      213: 983390844202070544
+    second: Mobile - Diamond Digger Saga - Diamonds_443
+  - first:
+      213: 1101111633043333333
+    second: Mobile - Diamond Digger Saga - Diamonds_444
+  - first:
+      213: -6490699319972755459
+    second: Mobile - Diamond Digger Saga - Diamonds_445
+  - first:
+      213: 1114891072337930709
+    second: Mobile - Diamond Digger Saga - Diamonds_446
+  - first:
+      213: -6497184860512602734
+    second: Mobile - Diamond Digger Saga - Diamonds_447
+  - first:
+      213: 2234361739031903258
+    second: Mobile - Diamond Digger Saga - Diamonds_448
+  - first:
+      213: -4857754784527929996
+    second: Mobile - Diamond Digger Saga - Diamonds_449
+  - first:
+      213: -6481298957286890101
+    second: Mobile - Diamond Digger Saga - Diamonds_450
+  - first:
+      213: -7639755103101427628
+    second: Mobile - Diamond Digger Saga - Diamonds_451
+  - first:
+      213: 4811249968923028647
+    second: Mobile - Diamond Digger Saga - Diamonds_452
+  - first:
+      213: -4428233195425968699
+    second: Mobile - Diamond Digger Saga - Diamonds_453
+  - first:
+      213: 210459104315585488
+    second: Mobile - Diamond Digger Saga - Diamonds_454
+  - first:
+      213: 2188785697647235725
+    second: Mobile - Diamond Digger Saga - Diamonds_455
+  - first:
+      213: -2114397886161543057
+    second: Mobile - Diamond Digger Saga - Diamonds_456
+  - first:
+      213: -1129149068510672489
+    second: Mobile - Diamond Digger Saga - Diamonds_457
+  - first:
+      213: 8167271168891811003
+    second: Mobile - Diamond Digger Saga - Diamonds_458
+  - first:
+      213: 2327047329582489338
+    second: Mobile - Diamond Digger Saga - Diamonds_459
+  - first:
+      213: -1569682884757997575
+    second: Mobile - Diamond Digger Saga - Diamonds_460
+  - first:
+      213: -953626851046018500
+    second: Mobile - Diamond Digger Saga - Diamonds_461
+  - first:
+      213: 3223109658628043718
+    second: Mobile - Diamond Digger Saga - Diamonds_462
+  - first:
+      213: 8898792774507713692
+    second: Mobile - Diamond Digger Saga - Diamonds_463
+  - first:
+      213: -202816919010457105
+    second: Mobile - Diamond Digger Saga - Diamonds_464
+  - first:
+      213: 7160870834397758285
+    second: Mobile - Diamond Digger Saga - Diamonds_465
+  - first:
+      213: 6003119279450667089
+    second: Mobile - Diamond Digger Saga - Diamonds_466
+  - first:
+      213: -8943422746983875629
+    second: Mobile - Diamond Digger Saga - Diamonds_467
+  - first:
+      213: 6104928843370295914
+    second: Mobile - Diamond Digger Saga - Diamonds_468
+  - first:
+      213: -1437523824910444906
+    second: Mobile - Diamond Digger Saga - Diamonds_469
+  - first:
+      213: -4739457817112139278
+    second: Mobile - Diamond Digger Saga - Diamonds_470
+  - first:
+      213: -3825778353846004278
+    second: Mobile - Diamond Digger Saga - Diamonds_471
+  - first:
+      213: 8778048560273995769
+    second: Mobile - Diamond Digger Saga - Diamonds_472
+  - first:
+      213: 2171742854871226364
+    second: Mobile - Diamond Digger Saga - Diamonds_473
+  - first:
+      213: 689010854205614058
+    second: Mobile - Diamond Digger Saga - Diamonds_474
+  - first:
+      213: 4427673828826048801
+    second: Mobile - Diamond Digger Saga - Diamonds_475
+  - first:
+      213: -407805105907228790
+    second: Mobile - Diamond Digger Saga - Diamonds_476
+  - first:
+      213: -2562162998960871145
+    second: Mobile - Diamond Digger Saga - Diamonds_477
+  - first:
+      213: -1433000217831653268
+    second: Mobile - Diamond Digger Saga - Diamonds_478
+  - first:
+      213: 4685252918597014507
+    second: Mobile - Diamond Digger Saga - Diamonds_479
+  - first:
+      213: -4514140587371755076
+    second: Mobile - Diamond Digger Saga - Diamonds_480
+  - first:
+      213: -6278779705609332126
+    second: Mobile - Diamond Digger Saga - Diamonds_481
+  - first:
+      213: -1447659327816545852
+    second: Mobile - Diamond Digger Saga - Diamonds_482
+  - first:
+      213: -426593202526159282
+    second: Mobile - Diamond Digger Saga - Diamonds_483
+  - first:
+      213: 6322523514438401303
+    second: Mobile - Diamond Digger Saga - Diamonds_484
+  - first:
+      213: -3238373465307563093
+    second: Mobile - Diamond Digger Saga - Diamonds_485
+  - first:
+      213: 2314539099770227096
+    second: Mobile - Diamond Digger Saga - Diamonds_486
+  - first:
+      213: -1212927179009674007
+    second: Mobile - Diamond Digger Saga - Diamonds_487
+  - first:
+      213: 5658400628159823763
+    second: Mobile - Diamond Digger Saga - Diamonds_488
+  - first:
+      213: 6805299133512724511
+    second: Mobile - Diamond Digger Saga - Diamonds_489
+  - first:
+      213: 3240816500784969781
+    second: Mobile - Diamond Digger Saga - Diamonds_490
+  - first:
+      213: -4918102564221327824
+    second: Mobile - Diamond Digger Saga - Diamonds_491
+  - first:
+      213: -5655703162297444704
+    second: Mobile - Diamond Digger Saga - Diamonds_492
+  - first:
+      213: -1265966462806234216
+    second: Mobile - Diamond Digger Saga - Diamonds_493
+  - first:
+      213: -3001740524097827245
+    second: Mobile - Diamond Digger Saga - Diamonds_494
+  - first:
+      213: -7083078780842494465
+    second: Mobile - Diamond Digger Saga - Diamonds_495
+  - first:
+      213: 3407720669963976984
+    second: Mobile - Diamond Digger Saga - Diamonds_496
+  - first:
+      213: -5359411358951620495
+    second: Mobile - Diamond Digger Saga - Diamonds_497
+  - first:
+      213: 813432600790437275
+    second: Mobile - Diamond Digger Saga - Diamonds_498
+  - first:
+      213: -5299074393671373204
+    second: Mobile - Diamond Digger Saga - Diamonds_499
+  - first:
+      213: -5127592864683749934
+    second: Mobile - Diamond Digger Saga - Diamonds_500
+  - first:
+      213: -3705737613328622986
+    second: Mobile - Diamond Digger Saga - Diamonds_501
+  - first:
+      213: -6724316038146438597
+    second: Mobile - Diamond Digger Saga - Diamonds_502
+  - first:
+      213: -3844765620111496140
+    second: Mobile - Diamond Digger Saga - Diamonds_503
+  - first:
+      213: -2727863164496750102
+    second: Mobile - Diamond Digger Saga - Diamonds_504
+  - first:
+      213: 4597742261508794215
+    second: Mobile - Diamond Digger Saga - Diamonds_505
+  - first:
+      213: -8124471123184580890
+    second: Mobile - Diamond Digger Saga - Diamonds_506
+  - first:
+      213: -5577899940405215059
+    second: Mobile - Diamond Digger Saga - Diamonds_507
+  - first:
+      213: 4520905677557802415
+    second: Mobile - Diamond Digger Saga - Diamonds_508
+  - first:
+      213: 5590470632032595452
+    second: Mobile - Diamond Digger Saga - Diamonds_509
+  - first:
+      213: 4509397507054560450
+    second: Mobile - Diamond Digger Saga - Diamonds_510
+  - first:
+      213: -5275587277887393889
+    second: Mobile - Diamond Digger Saga - Diamonds_511
+  - first:
+      213: 6402268426973700002
+    second: Mobile - Diamond Digger Saga - Diamonds_512
+  - first:
+      213: 7944347699887989169
+    second: Mobile - Diamond Digger Saga - Diamonds_513
+  - first:
+      213: -1328224075559975976
+    second: Mobile - Diamond Digger Saga - Diamonds_514
+  - first:
+      213: 7851800931592471072
+    second: Mobile - Diamond Digger Saga - Diamonds_515
+  - first:
+      213: -2784581361950985378
+    second: Mobile - Diamond Digger Saga - Diamonds_516
+  - first:
+      213: 143898786472371781
+    second: Mobile - Diamond Digger Saga - Diamonds_517
+  - first:
+      213: -1330011425130611370
+    second: Mobile - Diamond Digger Saga - Diamonds_518
+  - first:
+      213: -150949909022837478
+    second: Mobile - Diamond Digger Saga - Diamonds_519
+  - first:
+      213: -2940295440888038315
+    second: Mobile - Diamond Digger Saga - Diamonds_520
+  - first:
+      213: -6084048513603569845
+    second: Mobile - Diamond Digger Saga - Diamonds_521
+  - first:
+      213: -8882467186807218537
+    second: Mobile - Diamond Digger Saga - Diamonds_522
+  - first:
+      213: -2130341938634723146
+    second: Mobile - Diamond Digger Saga - Diamonds_523
+  - first:
+      213: -3069098489666009583
+    second: Mobile - Diamond Digger Saga - Diamonds_524
+  - first:
+      213: 8237699936570359044
+    second: Mobile - Diamond Digger Saga - Diamonds_525
+  - first:
+      213: -363696089263058007
+    second: Mobile - Diamond Digger Saga - Diamonds_526
+  - first:
+      213: 659741731755126691
+    second: Mobile - Diamond Digger Saga - Diamonds_527
+  - first:
+      213: -4082646051627167819
+    second: Mobile - Diamond Digger Saga - Diamonds_528
+  - first:
+      213: 365928432955205903
+    second: Mobile - Diamond Digger Saga - Diamonds_529
+  - first:
+      213: 8509184457054559925
+    second: Mobile - Diamond Digger Saga - Diamonds_530
+  - first:
+      213: 8473048745319460181
+    second: Mobile - Diamond Digger Saga - Diamonds_531
+  - first:
+      213: 5209353736799236595
+    second: Mobile - Diamond Digger Saga - Diamonds_532
+  - first:
+      213: -384636230128078933
+    second: Mobile - Diamond Digger Saga - Diamonds_533
+  - first:
+      213: 2079957454329663808
+    second: Mobile - Diamond Digger Saga - Diamonds_534
+  - first:
+      213: 5931953220474000354
+    second: Mobile - Diamond Digger Saga - Diamonds_535
+  - first:
+      213: 7393463181234932313
+    second: Mobile - Diamond Digger Saga - Diamonds_536
+  - first:
+      213: 6048606815159279969
+    second: Mobile - Diamond Digger Saga - Diamonds_537
+  - first:
+      213: 1863853106000151178
+    second: Mobile - Diamond Digger Saga - Diamonds_538
+  - first:
+      213: -8888666846305446938
+    second: Mobile - Diamond Digger Saga - Diamonds_539
+  - first:
+      213: -7583366299575605258
+    second: Mobile - Diamond Digger Saga - Diamonds_540
+  - first:
+      213: 8834116232224424786
+    second: Mobile - Diamond Digger Saga - Diamonds_541
+  - first:
+      213: 2065099854982954751
+    second: Mobile - Diamond Digger Saga - Diamonds_542
+  - first:
+      213: 4794621838555787219
+    second: Mobile - Diamond Digger Saga - Diamonds_543
+  - first:
+      213: 2574609003813936901
+    second: Mobile - Diamond Digger Saga - Diamonds_544
+  - first:
+      213: 3202283099618108844
+    second: Mobile - Diamond Digger Saga - Diamonds_545
+  - first:
+      213: 5279645912159847370
+    second: Mobile - Diamond Digger Saga - Diamonds_546
+  - first:
+      213: -246102744952166042
+    second: Mobile - Diamond Digger Saga - Diamonds_547
+  - first:
+      213: -3768916611483378204
+    second: Mobile - Diamond Digger Saga - Diamonds_548
+  - first:
+      213: -1214651379927314551
+    second: Mobile - Diamond Digger Saga - Diamonds_549
+  - first:
+      213: -4678499520445374213
+    second: Mobile - Diamond Digger Saga - Diamonds_550
+  - first:
+      213: -1585431098619330802
+    second: Mobile - Diamond Digger Saga - Diamonds_551
+  - first:
+      213: 6845909930290166931
+    second: Mobile - Diamond Digger Saga - Diamonds_552
+  - first:
+      213: 5805887073494469562
+    second: Mobile - Diamond Digger Saga - Diamonds_553
+  - first:
+      213: -2059395143035562783
+    second: Mobile - Diamond Digger Saga - Diamonds_554
+  - first:
+      213: 4986456206947899606
+    second: Mobile - Diamond Digger Saga - Diamonds_555
+  - first:
+      213: -5860190134646454382
+    second: Mobile - Diamond Digger Saga - Diamonds_556
+  - first:
+      213: 5204681130974862943
+    second: Mobile - Diamond Digger Saga - Diamonds_557
+  - first:
+      213: -230498345688985599
+    second: Mobile - Diamond Digger Saga - Diamonds_558
+  - first:
+      213: -196312384375706704
+    second: Mobile - Diamond Digger Saga - Diamonds_559
+  - first:
+      213: -2114888726464476520
+    second: Mobile - Diamond Digger Saga - Diamonds_560
+  - first:
+      213: 3281707618190033175
+    second: Mobile - Diamond Digger Saga - Diamonds_561
+  - first:
+      213: -4842934580925710485
+    second: Mobile - Diamond Digger Saga - Diamonds_562
+  - first:
+      213: -7495536729972012937
+    second: Mobile - Diamond Digger Saga - Diamonds_563
+  - first:
+      213: 1196014638911603518
+    second: Mobile - Diamond Digger Saga - Diamonds_564
+  - first:
+      213: 1955394403651397118
+    second: Mobile - Diamond Digger Saga - Diamonds_565
+  - first:
+      213: -5599983942490396029
+    second: Mobile - Diamond Digger Saga - Diamonds_566
+  - first:
+      213: -750687460629246896
+    second: Mobile - Diamond Digger Saga - Diamonds_567
+  - first:
+      213: -3350567363295079168
+    second: Mobile - Diamond Digger Saga - Diamonds_568
+  - first:
+      213: -2774742045839038889
+    second: Mobile - Diamond Digger Saga - Diamonds_569
+  - first:
+      213: -7950996465455976373
+    second: Mobile - Diamond Digger Saga - Diamonds_570
+  - first:
+      213: -4458191270280927203
+    second: Mobile - Diamond Digger Saga - Diamonds_571
+  - first:
+      213: 2589476881492991338
+    second: Mobile - Diamond Digger Saga - Diamonds_572
+  - first:
+      213: 2138731647697657887
+    second: Mobile - Diamond Digger Saga - Diamonds_573
+  - first:
+      213: 1083738793577969513
+    second: Mobile - Diamond Digger Saga - Diamonds_574
+  - first:
+      213: -8879342925937126824
+    second: Mobile - Diamond Digger Saga - Diamonds_575
+  - first:
+      213: 7044474463779405208
+    second: Mobile - Diamond Digger Saga - Diamonds_576
+  - first:
+      213: 4623849090321825186
+    second: Mobile - Diamond Digger Saga - Diamonds_577
+  - first:
+      213: 4548627911156526969
+    second: Mobile - Diamond Digger Saga - Diamonds_578
+  - first:
+      213: 893632920473825469
+    second: Mobile - Diamond Digger Saga - Diamonds_579
+  - first:
+      213: 5730110749735483331
+    second: Mobile - Diamond Digger Saga - Diamonds_580
+  - first:
+      213: -6937561598395683878
+    second: Mobile - Diamond Digger Saga - Diamonds_581
+  - first:
+      213: 514693376441950874
+    second: Mobile - Diamond Digger Saga - Diamonds_582
+  - first:
+      213: -2751091778966006890
+    second: Mobile - Diamond Digger Saga - Diamonds_583
+  - first:
+      213: 7797095481401172876
+    second: Mobile - Diamond Digger Saga - Diamonds_584
+  - first:
+      213: -6642716351950934408
+    second: Mobile - Diamond Digger Saga - Diamonds_585
+  - first:
+      213: -169445743781374270
+    second: Mobile - Diamond Digger Saga - Diamonds_586
+  - first:
+      213: 3888967652311373039
+    second: Mobile - Diamond Digger Saga - Diamonds_587
+  - first:
+      213: -1472901298829338732
+    second: Mobile - Diamond Digger Saga - Diamonds_588
+  - first:
+      213: -7570034111647451475
+    second: Mobile - Diamond Digger Saga - Diamonds_589
+  - first:
+      213: -1611159621964892295
+    second: Mobile - Diamond Digger Saga - Diamonds_590
+  - first:
+      213: 8421490358342809981
+    second: Mobile - Diamond Digger Saga - Diamonds_591
+  - first:
+      213: -6792052552681091458
+    second: Mobile - Diamond Digger Saga - Diamonds_592
+  - first:
+      213: -7358588051798750000
+    second: Mobile - Diamond Digger Saga - Diamonds_593
+  - first:
+      213: -2648072038731555150
+    second: Mobile - Diamond Digger Saga - Diamonds_594
+  - first:
+      213: 7446958258177532219
+    second: Mobile - Diamond Digger Saga - Diamonds_595
+  - first:
+      213: -6478796146193987309
+    second: Mobile - Diamond Digger Saga - Diamonds_596
+  - first:
+      213: -6421687242068867226
+    second: Mobile - Diamond Digger Saga - Diamonds_597
+  - first:
+      213: -7323295583997262925
+    second: Mobile - Diamond Digger Saga - Diamonds_598
+  - first:
+      213: 5876012471866560943
+    second: Mobile - Diamond Digger Saga - Diamonds_599
+  - first:
+      213: -4609398684039354761
+    second: Mobile - Diamond Digger Saga - Diamonds_600
+  - first:
+      213: -7235395077887530472
+    second: Mobile - Diamond Digger Saga - Diamonds_601
+  - first:
+      213: 1660594890791498825
+    second: Mobile - Diamond Digger Saga - Diamonds_602
+  - first:
+      213: -7507583013307831517
+    second: Mobile - Diamond Digger Saga - Diamonds_603
+  - first:
+      213: -5029202336591758206
+    second: Mobile - Diamond Digger Saga - Diamonds_604
+  - first:
+      213: -7553964617007678836
+    second: Mobile - Diamond Digger Saga - Diamonds_605
+  - first:
+      213: -3311534299225938881
+    second: Mobile - Diamond Digger Saga - Diamonds_606
+  - first:
+      213: 1461532047063065613
+    second: Mobile - Diamond Digger Saga - Diamonds_607
+  - first:
+      213: 1379147153131587725
+    second: Mobile - Diamond Digger Saga - Diamonds_608
+  - first:
+      213: -8840391224367398304
+    second: Mobile - Diamond Digger Saga - Diamonds_609
+  - first:
+      213: -4502419003410049089
+    second: Mobile - Diamond Digger Saga - Diamonds_610
+  - first:
+      213: -7055011153750348959
+    second: Mobile - Diamond Digger Saga - Diamonds_611
+  - first:
+      213: 8037838036118435750
+    second: Mobile - Diamond Digger Saga - Diamonds_612
+  - first:
+      213: -7674371198011850939
+    second: Mobile - Diamond Digger Saga - Diamonds_613
+  - first:
+      213: 305330744521610676
+    second: Mobile - Diamond Digger Saga - Diamonds_614
+  - first:
+      213: 3973931275866547873
+    second: Mobile - Diamond Digger Saga - Diamonds_615
+  - first:
+      213: -4457663022462719511
+    second: Mobile - Diamond Digger Saga - Diamonds_616
+  - first:
+      213: -2888004345840096010
+    second: Mobile - Diamond Digger Saga - Diamonds_617
+  - first:
+      213: 7078825417068107277
+    second: Mobile - Diamond Digger Saga - Diamonds_618
+  - first:
+      213: -5798743377013263977
+    second: Mobile - Diamond Digger Saga - Diamonds_619
+  - first:
+      213: -4812146525241242471
+    second: Mobile - Diamond Digger Saga - Diamonds_620
+  - first:
+      213: -1624246887361141170
+    second: Mobile - Diamond Digger Saga - Diamonds_621
+  - first:
+      213: 1136256864195376968
+    second: Mobile - Diamond Digger Saga - Diamonds_622
+  - first:
+      213: -266746904633374593
+    second: Mobile - Diamond Digger Saga - Diamonds_623
+  - first:
+      213: 650038911183526800
+    second: Mobile - Diamond Digger Saga - Diamonds_624
+  - first:
+      213: 9071001598426377932
+    second: Mobile - Diamond Digger Saga - Diamonds_625
+  - first:
+      213: 4750794405574831083
+    second: Mobile - Diamond Digger Saga - Diamonds_626
+  - first:
+      213: -5694626373168114942
+    second: Mobile - Diamond Digger Saga - Diamonds_627
+  - first:
+      213: -3194372660789765835
+    second: Mobile - Diamond Digger Saga - Diamonds_628
+  - first:
+      213: 1486859808484745609
+    second: Mobile - Diamond Digger Saga - Diamonds_629
+  - first:
+      213: -9131068063449189460
+    second: Mobile - Diamond Digger Saga - Diamonds_630
+  - first:
+      213: 527061330008363194
+    second: Mobile - Diamond Digger Saga - Diamonds_631
+  - first:
+      213: -3267062390027163596
+    second: Mobile - Diamond Digger Saga - Diamonds_632
+  - first:
+      213: 178160003430477600
+    second: Mobile - Diamond Digger Saga - Diamonds_633
+  - first:
+      213: -5654464583983607439
+    second: Mobile - Diamond Digger Saga - Diamonds_634
+  - first:
+      213: -4365449169382335375
+    second: Mobile - Diamond Digger Saga - Diamonds_635
+  - first:
+      213: -6662746027656443061
+    second: Mobile - Diamond Digger Saga - Diamonds_636
+  - first:
+      213: -8086282379726516333
+    second: Mobile - Diamond Digger Saga - Diamonds_637
+  - first:
+      213: 2287638547442715175
+    second: Mobile - Diamond Digger Saga - Diamonds_638
+  - first:
+      213: -4750351152578342035
+    second: Mobile - Diamond Digger Saga - Diamonds_639
+  - first:
+      213: -2285128013004165895
+    second: Mobile - Diamond Digger Saga - Diamonds_640
+  - first:
+      213: 959788030972263241
+    second: Mobile - Diamond Digger Saga - Diamonds_641
+  - first:
+      213: -460787317463382520
+    second: Mobile - Diamond Digger Saga - Diamonds_642
+  - first:
+      213: 7287639193486349787
+    second: Mobile - Diamond Digger Saga - Diamonds_643
+  - first:
+      213: -2452460358550855604
+    second: Mobile - Diamond Digger Saga - Diamonds_644
+  - first:
+      213: 5267993464598302476
+    second: Mobile - Diamond Digger Saga - Diamonds_645
+  - first:
+      213: 6592723910370662285
+    second: Mobile - Diamond Digger Saga - Diamonds_646
+  - first:
+      213: 6057660455086261987
+    second: Mobile - Diamond Digger Saga - Diamonds_647
+  - first:
+      213: -3399956542036185037
+    second: Mobile - Diamond Digger Saga - Diamonds_648
+  - first:
+      213: -954439901853735855
+    second: Mobile - Diamond Digger Saga - Diamonds_649
+  - first:
+      213: 5947285811782187058
+    second: Mobile - Diamond Digger Saga - Diamonds_650
+  - first:
+      213: 7630292689755177798
+    second: Mobile - Diamond Digger Saga - Diamonds_651
+  - first:
+      213: -2155353688199089527
+    second: Mobile - Diamond Digger Saga - Diamonds_652
+  - first:
+      213: -7027503601332148797
+    second: Mobile - Diamond Digger Saga - Diamonds_653
+  - first:
+      213: -6788933850917794347
+    second: Mobile - Diamond Digger Saga - Diamonds_654
+  - first:
+      213: -2316847358046239738
+    second: Mobile - Diamond Digger Saga - Diamonds_655
+  - first:
+      213: -4613766862715462889
+    second: Mobile - Diamond Digger Saga - Diamonds_656
+  - first:
+      213: -1360275351531706815
+    second: Mobile - Diamond Digger Saga - Diamonds_657
+  - first:
+      213: -5377124258615116378
+    second: Mobile - Diamond Digger Saga - Diamonds_658
+  - first:
+      213: 4651041788717448376
+    second: Mobile - Diamond Digger Saga - Diamonds_659
+  - first:
+      213: -1802628295935475081
+    second: Mobile - Diamond Digger Saga - Diamonds_660
+  - first:
+      213: 2149842267993524904
+    second: Mobile - Diamond Digger Saga - Diamonds_661
+  - first:
+      213: -2422253065492714505
+    second: Mobile - Diamond Digger Saga - Diamonds_662
+  - first:
+      213: 9159183825219074020
+    second: Mobile - Diamond Digger Saga - Diamonds_663
+  - first:
+      213: -3631159258609499111
+    second: Mobile - Diamond Digger Saga - Diamonds_664
+  - first:
+      213: -7993641030027386987
+    second: Mobile - Diamond Digger Saga - Diamonds_665
+  - first:
+      213: 1066328629450077007
+    second: Mobile - Diamond Digger Saga - Diamonds_666
+  - first:
+      213: 1076229793322431225
+    second: Mobile - Diamond Digger Saga - Diamonds_667
+  - first:
+      213: -3550642634189247538
+    second: Mobile - Diamond Digger Saga - Diamonds_668
+  - first:
+      213: -7869205602191977139
+    second: Mobile - Diamond Digger Saga - Diamonds_669
+  - first:
+      213: -6023594321433569093
+    second: Mobile - Diamond Digger Saga - Diamonds_670
+  - first:
+      213: -6158940098679348067
+    second: Mobile - Diamond Digger Saga - Diamonds_671
+  - first:
+      213: 8672355442829241038
+    second: Mobile - Diamond Digger Saga - Diamonds_672
+  - first:
+      213: -3753681687760317955
+    second: Mobile - Diamond Digger Saga - Diamonds_673
+  - first:
+      213: -4209185079543983224
+    second: Mobile - Diamond Digger Saga - Diamonds_674
+  - first:
+      213: -6648978509810789374
+    second: Mobile - Diamond Digger Saga - Diamonds_675
+  - first:
+      213: -3552903971137591845
+    second: Mobile - Diamond Digger Saga - Diamonds_676
+  - first:
+      213: 6795242399852706495
+    second: Mobile - Diamond Digger Saga - Diamonds_677
+  - first:
+      213: -1143189047734985317
+    second: Mobile - Diamond Digger Saga - Diamonds_678
+  - first:
+      213: 1404157513081333231
+    second: Mobile - Diamond Digger Saga - Diamonds_679
+  - first:
+      213: 5913989959156346799
+    second: Mobile - Diamond Digger Saga - Diamonds_680
+  - first:
+      213: 967292127131212421
+    second: Mobile - Diamond Digger Saga - Diamonds_681
+  - first:
+      213: 6076668089163110648
+    second: Mobile - Diamond Digger Saga - Diamonds_682
+  - first:
+      213: -2530802466828085300
+    second: Mobile - Diamond Digger Saga - Diamonds_683
+  - first:
+      213: -2004739811519190852
+    second: Mobile - Diamond Digger Saga - Diamonds_684
+  - first:
+      213: 8581165780245343727
+    second: Mobile - Diamond Digger Saga - Diamonds_685
+  - first:
+      213: -5436026183910273246
+    second: Mobile - Diamond Digger Saga - Diamonds_686
+  - first:
+      213: -914716062182994007
+    second: Mobile - Diamond Digger Saga - Diamonds_687
+  - first:
+      213: 9021954465104972120
+    second: Mobile - Diamond Digger Saga - Diamonds_688
+  - first:
+      213: 2910201084670832928
+    second: Mobile - Diamond Digger Saga - Diamonds_689
+  - first:
+      213: -5129726773100528410
+    second: Mobile - Diamond Digger Saga - Diamonds_690
+  - first:
+      213: -4970882608117739411
+    second: Mobile - Diamond Digger Saga - Diamonds_691
+  - first:
+      213: 179383152096005196
+    second: Mobile - Diamond Digger Saga - Diamonds_692
+  - first:
+      213: 1433358902231482053
+    second: Mobile - Diamond Digger Saga - Diamonds_693
+  - first:
+      213: 3862405063389034093
+    second: Mobile - Diamond Digger Saga - Diamonds_694
+  - first:
+      213: 5598415804896538060
+    second: Mobile - Diamond Digger Saga - Diamonds_695
+  - first:
+      213: -4182949467546006960
+    second: Mobile - Diamond Digger Saga - Diamonds_696
+  - first:
+      213: -5531487166789996499
+    second: Mobile - Diamond Digger Saga - Diamonds_697
+  - first:
+      213: 7908095428231283037
+    second: Mobile - Diamond Digger Saga - Diamonds_698
+  - first:
+      213: 1622783194257728624
+    second: Mobile - Diamond Digger Saga - Diamonds_699
+  - first:
+      213: 6817533166434337011
+    second: Mobile - Diamond Digger Saga - Diamonds_700
+  - first:
+      213: -7107998591254381376
+    second: Mobile - Diamond Digger Saga - Diamonds_701
+  - first:
+      213: -2207513118659668440
+    second: Mobile - Diamond Digger Saga - Diamonds_702
+  - first:
+      213: 3643271653086761799
+    second: Mobile - Diamond Digger Saga - Diamonds_703
+  - first:
+      213: 3607573196405291803
+    second: Mobile - Diamond Digger Saga - Diamonds_704
+  - first:
+      213: -6697431426479640539
+    second: Mobile - Diamond Digger Saga - Diamonds_705
+  - first:
+      213: 2014754205888155807
+    second: Mobile - Diamond Digger Saga - Diamonds_706
+  - first:
+      213: 8534968345744723400
+    second: Mobile - Diamond Digger Saga - Diamonds_707
+  - first:
+      213: 6301246694131092286
+    second: Mobile - Diamond Digger Saga - Diamonds_708
+  - first:
+      213: 4363340722917249321
+    second: Mobile - Diamond Digger Saga - Diamonds_709
+  - first:
+      213: -7685065703630931667
+    second: Mobile - Diamond Digger Saga - Diamonds_710
+  - first:
+      213: 7036184445721334016
+    second: Mobile - Diamond Digger Saga - Diamonds_711
+  - first:
+      213: -1507842905473838802
+    second: Mobile - Diamond Digger Saga - Diamonds_712
+  - first:
+      213: 1340103369200587194
+    second: Mobile - Diamond Digger Saga - Diamonds_713
+  - first:
+      213: -9127951876741502576
+    second: Mobile - Diamond Digger Saga - Diamonds_714
+  - first:
+      213: 3192616701754103852
+    second: Mobile - Diamond Digger Saga - Diamonds_715
+  - first:
+      213: 920642672050998303
+    second: Mobile - Diamond Digger Saga - Diamonds_716
+  - first:
+      213: 7174680889892412353
+    second: Mobile - Diamond Digger Saga - Diamonds_717
+  - first:
+      213: -4790128920904133607
+    second: Mobile - Diamond Digger Saga - Diamonds_718
+  - first:
+      213: 2115016988100654676
+    second: Mobile - Diamond Digger Saga - Diamonds_719
+  - first:
+      213: -1612512341694944508
+    second: Mobile - Diamond Digger Saga - Diamonds_720
+  - first:
+      213: -5813024885254320388
+    second: Mobile - Diamond Digger Saga - Diamonds_721
+  - first:
+      213: 7024087875497410682
+    second: Mobile - Diamond Digger Saga - Diamonds_722
+  - first:
+      213: -5867303863682132492
+    second: Mobile - Diamond Digger Saga - Diamonds_723
+  - first:
+      213: 2400350176127336811
+    second: Mobile - Diamond Digger Saga - Diamonds_724
+  - first:
+      213: 3665664100343455995
+    second: Mobile - Diamond Digger Saga - Diamonds_725
+  - first:
+      213: -1764474990334003983
+    second: Mobile - Diamond Digger Saga - Diamonds_726
+  - first:
+      213: 4111260629502096684
+    second: Mobile - Diamond Digger Saga - Diamonds_727
+  - first:
+      213: 6177376485085310487
+    second: Mobile - Diamond Digger Saga - Diamonds_728
+  - first:
+      213: 620520607073134756
+    second: Mobile - Diamond Digger Saga - Diamonds_729
+  - first:
+      213: 2265065263501666358
+    second: Mobile - Diamond Digger Saga - Diamonds_730
+  - first:
+      213: -2297495503180563809
+    second: Mobile - Diamond Digger Saga - Diamonds_731
+  - first:
+      213: -6148311884589625726
+    second: Mobile - Diamond Digger Saga - Diamonds_732
+  - first:
+      213: -2367668052838188008
+    second: Mobile - Diamond Digger Saga - Diamonds_733
+  - first:
+      213: 5637632689276285813
+    second: Mobile - Diamond Digger Saga - Diamonds_734
+  - first:
+      213: -7413480971929191254
+    second: Mobile - Diamond Digger Saga - Diamonds_735
+  - first:
+      213: 3925320074601653549
+    second: Mobile - Diamond Digger Saga - Diamonds_736
+  - first:
+      213: -1302791962602685779
+    second: Mobile - Diamond Digger Saga - Diamonds_737
+  - first:
+      213: 1312850337480406968
+    second: Mobile - Diamond Digger Saga - Diamonds_738
+  - first:
+      213: -2580612468257712496
+    second: Mobile - Diamond Digger Saga - Diamonds_739
+  - first:
+      213: 7961991113457006034
+    second: Mobile - Diamond Digger Saga - Diamonds_740
+  - first:
+      213: 1551977036574260701
+    second: Mobile - Diamond Digger Saga - Diamonds_741
+  - first:
+      213: 4379702717913151992
+    second: Mobile - Diamond Digger Saga - Diamonds_742
+  - first:
+      213: 4711343097280124015
+    second: Mobile - Diamond Digger Saga - Diamonds_743
+  - first:
+      213: -2088255061965723277
+    second: Mobile - Diamond Digger Saga - Diamonds_744
+  - first:
+      213: -7898001672093359747
+    second: Mobile - Diamond Digger Saga - Diamonds_745
+  - first:
+      213: 8150190696416757458
+    second: Mobile - Diamond Digger Saga - Diamonds_746
+  - first:
+      213: -1244187083362297483
+    second: Mobile - Diamond Digger Saga - Diamonds_747
+  - first:
+      213: -3231926134922675010
+    second: Mobile - Diamond Digger Saga - Diamonds_748
+  - first:
+      213: -3510875237529967649
+    second: Mobile - Diamond Digger Saga - Diamonds_749
+  - first:
+      213: 1140910744308376425
+    second: Mobile - Diamond Digger Saga - Diamonds_750
+  - first:
+      213: -2140464195652462509
+    second: Mobile - Diamond Digger Saga - Diamonds_751
+  - first:
+      213: -1852173606885369731
+    second: Mobile - Diamond Digger Saga - Diamonds_752
+  - first:
+      213: 1804392942343868810
+    second: Mobile - Diamond Digger Saga - Diamonds_753
+  - first:
+      213: -6997115133056869722
+    second: Mobile - Diamond Digger Saga - Diamonds_754
+  - first:
+      213: -8901261991169500500
+    second: Mobile - Diamond Digger Saga - Diamonds_755
+  - first:
+      213: -2845490665001131881
+    second: Mobile - Diamond Digger Saga - Diamonds_756
+  - first:
+      213: -7916473234234028217
+    second: Mobile - Diamond Digger Saga - Diamonds_757
+  - first:
+      213: 8629577108580286734
+    second: Mobile - Diamond Digger Saga - Diamonds_758
+  - first:
+      213: 8899906270031536105
+    second: Mobile - Diamond Digger Saga - Diamonds_759
+  - first:
+      213: -2849768624547134864
+    second: Mobile - Diamond Digger Saga - Diamonds_760
+  - first:
+      213: -4424744024812960331
+    second: Mobile - Diamond Digger Saga - Diamonds_761
+  - first:
+      213: 1629996818930800132
+    second: Mobile - Diamond Digger Saga - Diamonds_762
+  - first:
+      213: -5835125464191564235
+    second: Mobile - Diamond Digger Saga - Diamonds_763
+  - first:
+      213: 1231511383344158585
+    second: Mobile - Diamond Digger Saga - Diamonds_764
+  - first:
+      213: 533216367986555286
+    second: Mobile - Diamond Digger Saga - Diamonds_765
+  - first:
+      213: -5289326579013957334
+    second: Mobile - Diamond Digger Saga - Diamonds_766
+  - first:
+      213: -2785133259107056447
+    second: Mobile - Diamond Digger Saga - Diamonds_767
+  - first:
+      213: -1285850439758557452
+    second: Mobile - Diamond Digger Saga - Diamonds_768
+  - first:
+      213: 5221534713198772331
+    second: Mobile - Diamond Digger Saga - Diamonds_769
+  - first:
+      213: -3015993220220097380
+    second: Mobile - Diamond Digger Saga - Diamonds_770
+  - first:
+      213: 1727166717156119100
+    second: Mobile - Diamond Digger Saga - Diamonds_771
+  - first:
+      213: 4862080629688767374
+    second: Mobile - Diamond Digger Saga - Diamonds_772
+  - first:
+      213: 314030197273180210
+    second: Mobile - Diamond Digger Saga - Diamonds_773
+  - first:
+      213: -1605092707816719689
+    second: Mobile - Diamond Digger Saga - Diamonds_774
+  - first:
+      213: 7452361000691230640
+    second: Mobile - Diamond Digger Saga - Diamonds_775
+  - first:
+      213: 8579654183065608900
+    second: Mobile - Diamond Digger Saga - Diamonds_776
+  - first:
+      213: 2188435011572661233
+    second: Mobile - Diamond Digger Saga - Diamonds_777
+  - first:
+      213: -6442004454111861987
+    second: Mobile - Diamond Digger Saga - Diamonds_778
+  - first:
+      213: 1850771864325388328
+    second: Mobile - Diamond Digger Saga - Diamonds_779
+  - first:
+      213: 4069802435089925054
+    second: Mobile - Diamond Digger Saga - Diamonds_780
+  - first:
+      213: 5703279662297183432
+    second: Mobile - Diamond Digger Saga - Diamonds_781
+  - first:
+      213: 5130958454335002360
+    second: Mobile - Diamond Digger Saga - Diamonds_782
+  - first:
+      213: -5304178960225079128
+    second: Mobile - Diamond Digger Saga - Diamonds_783
+  - first:
+      213: -8736847170243877674
+    second: Mobile - Diamond Digger Saga - Diamonds_784
+  - first:
+      213: 5039736435555230924
+    second: Mobile - Diamond Digger Saga - Diamonds_785
+  - first:
+      213: 4214668767217265516
+    second: Mobile - Diamond Digger Saga - Diamonds_786
+  - first:
+      213: 2976181961521551997
+    second: Mobile - Diamond Digger Saga - Diamonds_787
+  - first:
+      213: 6688536764485018640
+    second: Mobile - Diamond Digger Saga - Diamonds_788
+  - first:
+      213: 5447761089879361034
+    second: Mobile - Diamond Digger Saga - Diamonds_789
+  - first:
+      213: 5739007233139595829
+    second: Mobile - Diamond Digger Saga - Diamonds_790
+  - first:
+      213: 5377072526084564952
+    second: Mobile - Diamond Digger Saga - Diamonds_791
+  - first:
+      213: -8232819800234635626
+    second: Mobile - Diamond Digger Saga - Diamonds_792
+  - first:
+      213: 7464371410104388729
+    second: Mobile - Diamond Digger Saga - Diamonds_793
+  - first:
+      213: 6789724859331781455
+    second: Mobile - Diamond Digger Saga - Diamonds_794
+  - first:
+      213: -2823233837931683052
+    second: Mobile - Diamond Digger Saga - Diamonds_795
+  - first:
+      213: 9086470281461063834
+    second: Mobile - Diamond Digger Saga - Diamonds_796
+  - first:
+      213: 6580953148555428958
+    second: Mobile - Diamond Digger Saga - Diamonds_797
+  - first:
+      213: -1012747463625471483
+    second: Mobile - Diamond Digger Saga - Diamonds_798
+  - first:
+      213: 535188599736298650
+    second: Mobile - Diamond Digger Saga - Diamonds_799
+  - first:
+      213: 3451813758648549786
+    second: Mobile - Diamond Digger Saga - Diamonds_800
+  - first:
+      213: -1127022060280417316
+    second: Mobile - Diamond Digger Saga - Diamonds_801
+  - first:
+      213: -3388928077270476169
+    second: Mobile - Diamond Digger Saga - Diamonds_802
+  - first:
+      213: 4840647273655513307
+    second: Mobile - Diamond Digger Saga - Diamonds_803
+  - first:
+      213: 4612463521037515821
+    second: Mobile - Diamond Digger Saga - Diamonds_804
+  - first:
+      213: 9158301205807791072
+    second: Mobile - Diamond Digger Saga - Diamonds_805
+  - first:
+      213: 8064932235721005782
+    second: Mobile - Diamond Digger Saga - Diamonds_806
+  - first:
+      213: 4615715927520763835
+    second: Mobile - Diamond Digger Saga - Diamonds_807
+  - first:
+      213: 30522742681209958
+    second: Mobile - Diamond Digger Saga - Diamonds_808
+  - first:
+      213: -4544497047356471863
+    second: Mobile - Diamond Digger Saga - Diamonds_809
+  - first:
+      213: 6171895277420242106
+    second: Mobile - Diamond Digger Saga - Diamonds_810
+  - first:
+      213: 8227653787976389268
+    second: Mobile - Diamond Digger Saga - Diamonds_811
+  - first:
+      213: -6720579958356358601
+    second: Mobile - Diamond Digger Saga - Diamonds_812
+  - first:
+      213: -4593711417964891207
+    second: Mobile - Diamond Digger Saga - Diamonds_813
+  - first:
+      213: 1582294231106368312
+    second: Mobile - Diamond Digger Saga - Diamonds_814
+  - first:
+      213: -4191127449031870996
+    second: Mobile - Diamond Digger Saga - Diamonds_815
+  - first:
+      213: 5472780054806160421
+    second: Mobile - Diamond Digger Saga - Diamonds_816
+  - first:
+      213: 7956841382323023250
+    second: Mobile - Diamond Digger Saga - Diamonds_817
+  - first:
+      213: -9080512360949999411
+    second: Mobile - Diamond Digger Saga - Diamonds_818
+  - first:
+      213: -7210385586457281244
+    second: Mobile - Diamond Digger Saga - Diamonds_819
+  - first:
+      213: -8055076508059968708
+    second: Mobile - Diamond Digger Saga - Diamonds_820
+  - first:
+      213: 1575212186059626776
+    second: Mobile - Diamond Digger Saga - Diamonds_821
+  - first:
+      213: 265122315433530757
+    second: Mobile - Diamond Digger Saga - Diamonds_822
+  - first:
+      213: -2394264462059742567
+    second: Mobile - Diamond Digger Saga - Diamonds_823
+  - first:
+      213: -6712626533720125747
+    second: Mobile - Diamond Digger Saga - Diamonds_824
+  - first:
+      213: 6118648853649172074
+    second: Mobile - Diamond Digger Saga - Diamonds_825
+  - first:
+      213: -3821913362502447699
+    second: Mobile - Diamond Digger Saga - Diamonds_826
+  - first:
+      213: -9092677974504426018
+    second: Mobile - Diamond Digger Saga - Diamonds_827
+  - first:
+      213: -7197465324851619725
+    second: Mobile - Diamond Digger Saga - Diamonds_828
+  - first:
+      213: -3758241563023702442
+    second: Mobile - Diamond Digger Saga - Diamonds_829
+  - first:
+      213: -4174640741058825005
+    second: Mobile - Diamond Digger Saga - Diamonds_830
+  - first:
+      213: 1564703056948042514
+    second: Mobile - Diamond Digger Saga - Diamonds_831
+  - first:
+      213: 349448342344038868
+    second: Mobile - Diamond Digger Saga - Diamonds_832
+  - first:
+      213: -8107733800021901145
+    second: Mobile - Diamond Digger Saga - Diamonds_833
+  - first:
+      213: -990113686028377597
+    second: Mobile - Diamond Digger Saga - Diamonds_834
+  - first:
+      213: -943250976531670702
+    second: Mobile - Diamond Digger Saga - Diamonds_835
+  - first:
+      213: -6600699144376535941
+    second: Mobile - Diamond Digger Saga - Diamonds_836
+  - first:
+      213: -1468287425295579933
+    second: Mobile - Diamond Digger Saga - Diamonds_837
+  - first:
+      213: 104181708572477391
+    second: Mobile - Diamond Digger Saga - Diamonds_838
+  - first:
+      213: -5736804610804704691
+    second: Mobile - Diamond Digger Saga - Diamonds_839
+  - first:
+      213: -6309801951935830310
+    second: Mobile - Diamond Digger Saga - Diamonds_840
+  - first:
+      213: -2898019031414298102
+    second: Mobile - Diamond Digger Saga - Diamonds_841
+  - first:
+      213: -7548839216646920867
+    second: Mobile - Diamond Digger Saga - Diamonds_842
+  - first:
+      213: -7599127949140079226
+    second: Mobile - Diamond Digger Saga - Diamonds_843
+  - first:
+      213: -1794060740957256274
+    second: Mobile - Diamond Digger Saga - Diamonds_844
+  - first:
+      213: 7232872718030463457
+    second: Mobile - Diamond Digger Saga - Diamonds_845
+  - first:
+      213: -8700101198103957257
+    second: Mobile - Diamond Digger Saga - Diamonds_846
+  - first:
+      213: 3097066994516106498
+    second: Mobile - Diamond Digger Saga - Diamonds_847
+  - first:
+      213: 337508477983317088
+    second: Mobile - Diamond Digger Saga - Diamonds_848
+  - first:
+      213: 6062171535114930830
+    second: Mobile - Diamond Digger Saga - Diamonds_849
+  - first:
+      213: -8446063586539638047
+    second: Mobile - Diamond Digger Saga - Diamonds_850
+  - first:
+      213: 8370495164565561833
+    second: Mobile - Diamond Digger Saga - Diamonds_851
+  - first:
+      213: -3974621742021893306
+    second: Mobile - Diamond Digger Saga - Diamonds_852
+  - first:
+      213: 8624329496894594612
+    second: Mobile - Diamond Digger Saga - Diamonds_853
+  - first:
+      213: -866324102722537209
+    second: Mobile - Diamond Digger Saga - Diamonds_854
+  - first:
+      213: -8754977928267717271
+    second: Mobile - Diamond Digger Saga - Diamonds_855
+  - first:
+      213: 3446363372629643213
+    second: Mobile - Diamond Digger Saga - Diamonds_856
+  - first:
+      213: -4812197692375933227
+    second: Mobile - Diamond Digger Saga - Diamonds_857
+  - first:
+      213: 1220158073951666739
+    second: Mobile - Diamond Digger Saga - Diamonds_858
+  - first:
+      213: 5423257459017032211
+    second: Mobile - Diamond Digger Saga - Diamonds_859
+  - first:
+      213: -7459407908976494211
+    second: Mobile - Diamond Digger Saga - Diamonds_860
+  - first:
+      213: -8503562284145154698
+    second: Mobile - Diamond Digger Saga - Diamonds_861
+  - first:
+      213: -507050854744652595
+    second: Mobile - Diamond Digger Saga - Diamonds_862
+  - first:
+      213: 998864114278068594
+    second: Mobile - Diamond Digger Saga - Diamonds_863
+  - first:
+      213: -5051253757912683323
+    second: Mobile - Diamond Digger Saga - Diamonds_864
+  - first:
+      213: -5955629754592946124
+    second: Mobile - Diamond Digger Saga - Diamonds_865
+  - first:
+      213: 6782236776098582820
+    second: Mobile - Diamond Digger Saga - Diamonds_866
+  - first:
+      213: -564480025117081849
+    second: Mobile - Diamond Digger Saga - Diamonds_867
+  - first:
+      213: 4964799422888653038
+    second: Mobile - Diamond Digger Saga - Diamonds_868
+  - first:
+      213: 6356331137156205278
+    second: Mobile - Diamond Digger Saga - Diamonds_869
+  - first:
+      213: -6572327464070258401
+    second: Mobile - Diamond Digger Saga - Diamonds_870
+  - first:
+      213: -1785751919576421132
+    second: Mobile - Diamond Digger Saga - Diamonds_871
+  - first:
+      213: 6969004147546363437
+    second: Mobile - Diamond Digger Saga - Diamonds_872
+  - first:
+      213: -4469581065725331127
+    second: Mobile - Diamond Digger Saga - Diamonds_873
+  - first:
+      213: 1119829865601739085
+    second: Mobile - Diamond Digger Saga - Diamonds_874
+  - first:
+      213: 8102204194804164934
+    second: Mobile - Diamond Digger Saga - Diamonds_875
+  - first:
+      213: -4825314006115527016
+    second: Mobile - Diamond Digger Saga - Diamonds_876
+  - first:
+      213: -4506544249587000101
+    second: Mobile - Diamond Digger Saga - Diamonds_877
+  - first:
+      213: -7201562821656012727
+    second: Mobile - Diamond Digger Saga - Diamonds_878
+  - first:
+      213: -7633935095894606884
+    second: Mobile - Diamond Digger Saga - Diamonds_879
+  - first:
+      213: 7297539302473743394
+    second: Mobile - Diamond Digger Saga - Diamonds_880
+  - first:
+      213: 747237617270216758
+    second: Mobile - Diamond Digger Saga - Diamonds_881
+  - first:
+      213: 3733575680199383837
+    second: Mobile - Diamond Digger Saga - Diamonds_882
+  - first:
+      213: -6655976220033952214
+    second: Mobile - Diamond Digger Saga - Diamonds_883
+  - first:
+      213: -2487184721396512570
+    second: Mobile - Diamond Digger Saga - Diamonds_884
+  - first:
+      213: 2025814456461577093
+    second: Mobile - Diamond Digger Saga - Diamonds_885
+  - first:
+      213: -6470580740092771981
+    second: Mobile - Diamond Digger Saga - Diamonds_886
+  - first:
+      213: -2785966153190328425
+    second: Mobile - Diamond Digger Saga - Diamonds_887
+  - first:
+      213: -3274193134750282574
+    second: Mobile - Diamond Digger Saga - Diamonds_888
+  - first:
+      213: -1133332846577465359
+    second: Mobile - Diamond Digger Saga - Diamonds_889
+  - first:
+      213: 4063517525600153333
+    second: Mobile - Diamond Digger Saga - Diamonds_890
+  - first:
+      213: -8865226829259721002
+    second: Mobile - Diamond Digger Saga - Diamonds_891
+  - first:
+      213: -851963172366017034
+    second: Mobile - Diamond Digger Saga - Diamonds_892
+  - first:
+      213: -2232079611554455280
+    second: Mobile - Diamond Digger Saga - Diamonds_893
+  - first:
+      213: -7875667773402357210
+    second: Mobile - Diamond Digger Saga - Diamonds_894
+  - first:
+      213: -1850874823202966612
+    second: Mobile - Diamond Digger Saga - Diamonds_895
+  - first:
+      213: -4101107603440123013
+    second: Mobile - Diamond Digger Saga - Diamonds_896
+  - first:
+      213: 1861853441204527984
+    second: Mobile - Diamond Digger Saga - Diamonds_897
+  - first:
+      213: 8672812295079374917
+    second: Mobile - Diamond Digger Saga - Diamonds_898
+  - first:
+      213: 4998039275866764106
+    second: Mobile - Diamond Digger Saga - Diamonds_899
+  - first:
+      213: -9142963143307026818
+    second: Mobile - Diamond Digger Saga - Diamonds_900
+  - first:
+      213: -2679009154020151680
+    second: Mobile - Diamond Digger Saga - Diamonds_901
+  - first:
+      213: 7273888190645395820
+    second: Mobile - Diamond Digger Saga - Diamonds_902
+  - first:
+      213: -6818499263291126322
+    second: Mobile - Diamond Digger Saga - Diamonds_903
+  - first:
+      213: 4094422571781241803
+    second: Mobile - Diamond Digger Saga - Diamonds_904
+  - first:
+      213: -9037647242119534900
+    second: Mobile - Diamond Digger Saga - Diamonds_905
+  - first:
+      213: -7970329862328857875
+    second: Mobile - Diamond Digger Saga - Diamonds_906
+  - first:
+      213: -3094618409220453597
+    second: Mobile - Diamond Digger Saga - Diamonds_907
+  - first:
+      213: -570323697540825933
+    second: Mobile - Diamond Digger Saga - Diamonds_908
+  - first:
+      213: 321123896154076265
+    second: Mobile - Diamond Digger Saga - Diamonds_909
+  - first:
+      213: -7110039388485217028
+    second: Mobile - Diamond Digger Saga - Diamonds_910
+  - first:
+      213: 3275303197502477426
+    second: Mobile - Diamond Digger Saga - Diamonds_911
+  - first:
+      213: 1223741826800606332
+    second: Mobile - Diamond Digger Saga - Diamonds_912
+  - first:
+      213: -3273720643272233462
+    second: Mobile - Diamond Digger Saga - Diamonds_913
+  - first:
+      213: 2817128599975161151
+    second: Mobile - Diamond Digger Saga - Diamonds_914
+  - first:
+      213: -6950925969281377512
+    second: Mobile - Diamond Digger Saga - Diamonds_915
+  - first:
+      213: 5934236235360515810
+    second: Mobile - Diamond Digger Saga - Diamonds_916
+  - first:
+      213: 914729722318435743
+    second: Mobile - Diamond Digger Saga - Diamonds_917
+  - first:
+      213: -9044577287910431569
+    second: Mobile - Diamond Digger Saga - Diamonds_918
+  - first:
+      213: 2396231961042407205
+    second: Mobile - Diamond Digger Saga - Diamonds_919
+  - first:
+      213: 1783516051652387663
+    second: Mobile - Diamond Digger Saga - Diamonds_920
+  - first:
+      213: -7100647827369162138
+    second: Mobile - Diamond Digger Saga - Diamonds_921
+  - first:
+      213: 8673628356757433672
+    second: Mobile - Diamond Digger Saga - Diamonds_922
+  - first:
+      213: -1151635366290414360
+    second: Mobile - Diamond Digger Saga - Diamonds_923
+  - first:
+      213: 4262054515817408287
+    second: Mobile - Diamond Digger Saga - Diamonds_924
+  - first:
+      213: -5128471851511823986
+    second: Mobile - Diamond Digger Saga - Diamonds_925
+  - first:
+      213: -6455539033663138484
+    second: Mobile - Diamond Digger Saga - Diamonds_926
+  - first:
+      213: 5441066054601553
+    second: Mobile - Diamond Digger Saga - Diamonds_927
+  - first:
+      213: -6401851983373049235
+    second: Mobile - Diamond Digger Saga - Diamonds_928
+  - first:
+      213: 5424569079686728589
+    second: Mobile - Diamond Digger Saga - Diamonds_929
+  - first:
+      213: -3342013790755415852
+    second: Mobile - Diamond Digger Saga - Diamonds_930
+  - first:
+      213: 4190906015745749105
+    second: Mobile - Diamond Digger Saga - Diamonds_931
+  - first:
+      213: -4766558798071625328
+    second: Mobile - Diamond Digger Saga - Diamonds_932
+  - first:
+      213: -6027328048232645372
+    second: Mobile - Diamond Digger Saga - Diamonds_933
+  - first:
+      213: 755798333621777629
+    second: Mobile - Diamond Digger Saga - Diamonds_934
+  - first:
+      213: -8158795493370395512
+    second: Mobile - Diamond Digger Saga - Diamonds_935
+  - first:
+      213: 5716538659751916096
+    second: Mobile - Diamond Digger Saga - Diamonds_936
+  - first:
+      213: -8474697531375077437
+    second: Mobile - Diamond Digger Saga - Diamonds_937
+  - first:
+      213: -8243326850591913928
+    second: Mobile - Diamond Digger Saga - Diamonds_938
+  - first:
+      213: 1519753045469975726
+    second: Mobile - Diamond Digger Saga - Diamonds_939
+  - first:
+      213: 711966063373000952
+    second: Mobile - Diamond Digger Saga - Diamonds_940
+  - first:
+      213: 5524546610531664273
+    second: Mobile - Diamond Digger Saga - Diamonds_941
+  - first:
+      213: -5237542182401011268
+    second: Mobile - Diamond Digger Saga - Diamonds_942
+  - first:
+      213: -8453224582934943053
+    second: Mobile - Diamond Digger Saga - Diamonds_943
+  - first:
+      213: 6512918255883641261
+    second: Mobile - Diamond Digger Saga - Diamonds_944
+  - first:
+      213: -3509922957002340325
+    second: Mobile - Diamond Digger Saga - Diamonds_945
+  - first:
+      213: -8212592621268932948
+    second: Mobile - Diamond Digger Saga - Diamonds_946
+  - first:
+      213: -2472247015409870088
+    second: Mobile - Diamond Digger Saga - Diamonds_947
+  - first:
+      213: 1030185217195956712
+    second: Mobile - Diamond Digger Saga - Diamonds_948
+  - first:
+      213: 1870463055049092087
+    second: Mobile - Diamond Digger Saga - Diamonds_949
+  - first:
+      213: 2845215051610747915
+    second: Mobile - Diamond Digger Saga - Diamonds_950
+  - first:
+      213: 2933035704274760144
+    second: Mobile - Diamond Digger Saga - Diamonds_951
+  - first:
+      213: 5036263964982571599
+    second: Mobile - Diamond Digger Saga - Diamonds_952
+  - first:
+      213: -7238335620658807679
+    second: Mobile - Diamond Digger Saga - Diamonds_953
+  - first:
+      213: -8487761683930352247
+    second: Mobile - Diamond Digger Saga - Diamonds_954
+  - first:
+      213: -4227936712183037253
+    second: Mobile - Diamond Digger Saga - Diamonds_955
+  - first:
+      213: -5938088844274669493
+    second: Mobile - Diamond Digger Saga - Diamonds_956
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83340cdeafdec20800000000000000
+      internalID: 3237519606189078726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168f553e3f62fab0800000000000000
+      internalID: -4975792325316868588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7fa3337f4ee220800000000000000
+      internalID: 2517036597953658835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978b0a029b813e20800000000000000
+      internalID: 3328595058953521048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 321
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971dd806c3d97b70800000000000000
+      internalID: 8897375386352818071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2017334bee04ecf0800000000000000
+      internalID: -224037677853896661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a1ac4a3f53aa50800000000000000
+      internalID: 6531168588615756161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 909
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0cdc8d96382340800000000000000
+      internalID: 4839177849910595245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 781
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e20e46a6a91c230800000000000000
+      internalID: 3657374154151177735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 665
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74577498681652670800000000000000
+      internalID: 8513317901070464327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 550
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede87db95378ac4e0800000000000000
+      internalID: -1960606023448817954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 435
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8bf9a6423c39d30800000000000000
+      internalID: 4437104619065161956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 320
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac94b3b6b03ea20800000000000000
+      internalID: 3090326324490390026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 205
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43f8658cd77a260800000000000000
+      internalID: 7108788836226774200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 90
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71382303174ddaf20800000000000000
+      internalID: 3435635673358566167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 911
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca2270ed4b101d0800000000000000
+      internalID: -3386226579110450103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 911
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b9f73dc71c895e0800000000000000
+      internalID: -1902558100695573657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 911
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaab731fa971349a0800000000000000
+      internalID: -6250125903620752722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 911
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc75633dcf9433f0800000000000000
+      internalID: -921936320024707873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 911
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb814622b62ac50800000000000000
+      internalID: 6675015393168899890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_20
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 911
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc235b6d25993300800000000000000
+      internalID: 232380878092971249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 798
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd493e1d4d37ca350800000000000000
+      internalID: 6029321359033865439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 798
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1baee64e8148b00800000000000000
+      internalID: 829815600735498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 798
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53efaa7f2eae0ef40800000000000000
+      internalID: 5755858584318180917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 797
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede9dbca5f596610800000000000000
+      internalID: 1614926784960785893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 798
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdece8e7d32f8aff0800000000000000
+      internalID: -24503452020322597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_26
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 798
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829084f3c518cdf80800000000000000
+      internalID: -8080441398210852568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 685
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73619213b2af9950800000000000000
+      internalID: 6458059280666944379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 685
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b6453ef2051a90800000000000000
+      internalID: -7343960326518950229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 685
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edfe7b46005a5f30800000000000000
+      internalID: 4565049160260058592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 690
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e29c8718ffe5110800000000000000
+      internalID: 1251718677997891118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 687
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26416e9984fe5fd0800000000000000
+      internalID: -2351173083535948245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_32
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 687
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339e3dfe8968d150800000000000000
+      internalID: 5897579774896673592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_33
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 687
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b13ffc0a1c0d60800000000000000
+      internalID: 7857684092978050376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 575
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf39972ae103ad0800000000000000
+      internalID: -2724644091385873658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 575
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a47db2921f6a350800000000000000
+      internalID: 6027770310413470260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 575
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87efa752b5830fa50800000000000000
+      internalID: 6552799421946068600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_37
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 575
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885cfa09f8ca2090800000000000000
+      internalID: -8058407611269359478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_38
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 575
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616e3fd125eeb600800000000000000
+      internalID: 486077743444681057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_39
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 575
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509b6396f4594f30800000000000000
+      internalID: 4560269515701325916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 462
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e90eee18f5a1a0800000000000000
+      internalID: -6798755250719562393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 349
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b83fcc0ee54a4a0800000000000000
+      internalID: -6583032435704624343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 236
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d90f0aac0c9cb20800000000000000
+      internalID: 3155264990465793353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 124
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668201c309b439980800000000000000
+      internalID: -8533393786081892250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90c2f91642e16e0800000000000000
+      internalID: -1865013193983915562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 900
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673646adcd1f1730800000000000000
+      internalID: 3971926165459187564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_46
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 573
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cdff1844026f8e0800000000000000
+      internalID: -1660103934028555185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_47
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 459
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07909dfc1f6642470800000000000000
+      internalID: 8368927196321483120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 459
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7c690919080040800000000000000
+      internalID: 4613947821378009623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_49
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 459
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58506965c920460800000000000000
+      internalID: 7206494249444279738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 459
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80d551006b97680800000000000000
+      internalID: -8756767888970544938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 459
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1498d89cc2f131360800000000000000
+      internalID: 7139084111532886337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_52
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 459
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94d661f65a64010800000000000000
+      internalID: 1172806649512806892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 346
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968eed1f90692a630800000000000000
+      internalID: 3936873993732024425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_54
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 233
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919dd4ff73780a830800000000000000
+      internalID: 4080409936973912345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 120
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255b12e3791c82870800000000000000
+      internalID: 8658383138946397522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd36fbb193bc990800000000000000
+      internalID: -7364729974296421458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 346
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ddf756120df230800000000000000
+      internalID: 3674095165992981085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 233
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f891516467174640800000000000000
+      internalID: 5064042025898318070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 120
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae9c8711276eab0800000000000000
+      internalID: -4979166918644995381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_60
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 12
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0f0c6a8d259ac50800000000000000
+      internalID: 6676959013017546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_61
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 345
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a152044a65fbaf0800000000000000
+      internalID: -378488580225033681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_62
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 345
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e5490ab301ca90800000000000000
+      internalID: -7295545823809117165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_63
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 345
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c89b6fb7631b30800000000000000
+      internalID: 4256860144636839302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_64
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 345
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644f34a0a9494d00800000000000000
+      internalID: 957377350092145770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_65
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 232
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32078ddcf14289f70800000000000000
+      internalID: 9194138358292967459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_66
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 120
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1159dda53283600800000000000000
+      internalID: 448147036094927284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_67
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f752774987b6ad0800000000000000
+      internalID: -2707938171883782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 233
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f668e1c50cdd7e30800000000000000
+      internalID: 4502997119726544627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_69
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 233
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463c9c7b525c00b0800000000000000
+      internalID: -5761139270427593144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 233
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3c401881c70650800000000000000
+      internalID: 6199136202231921742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 120
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1393d694bb2b030800000000000000
+      internalID: 3509072983714509247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_72
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 120
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d757f08d6a3b80250800000000000000
+      internalID: 5911172040094610813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_73
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 120
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0eec180bde1f2a0800000000000000
+      internalID: -6705317027830112043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Diamond Digger Saga - Diamonds_74
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 7
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a494a0718cdf20fc0800000000000000
+      internalID: -3529980122083210934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

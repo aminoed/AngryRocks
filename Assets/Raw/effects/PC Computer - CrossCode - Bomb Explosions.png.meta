@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 3241c29de5eb8674f8d4735cbf0e39df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5119332242966034851
+    second: PC Computer - CrossCode - Bomb Explosions_02
+  - first:
+      213: 675384647718045718
+    second: PC Computer - CrossCode - Bomb Explosions_03
+  - first:
+      213: -8558094961927059055
+    second: PC Computer - CrossCode - Bomb Explosions_04
+  - first:
+      213: 2970051632230506005
+    second: PC Computer - CrossCode - Bomb Explosions_05
+  - first:
+      213: -1018004018139204528
+    second: PC Computer - CrossCode - Bomb Explosions_06
+  - first:
+      213: -1751035401978344848
+    second: PC Computer - CrossCode - Bomb Explosions_07
+  - first:
+      213: -2838100194153741183
+    second: PC Computer - CrossCode - Bomb Explosions_08
+  - first:
+      213: 8635603374592610557
+    second: PC Computer - CrossCode - Bomb Explosions_09
+  - first:
+      213: -3595894713119424095
+    second: PC Computer - CrossCode - Bomb Explosions_15
+  - first:
+      213: -4917133571415443272
+    second: PC Computer - CrossCode - Bomb Explosions_30
+  - first:
+      213: 7251466496209988006
+    second: PC Computer - CrossCode - Bomb Explosions_15
+  - first:
+      213: 8180378827117246831
+    second: PC Computer - CrossCode - Bomb Explosions_30
+  - first:
+      213: 1065859194665161963
+    second: PC Computer - CrossCode - Bomb Explosions_18
+  - first:
+      213: -4934011859017293098
+    second: PC Computer - CrossCode - Bomb Explosions_16
+  - first:
+      213: 4255457429525759063
+    second: PC Computer - CrossCode - Bomb Explosions_16
+  - first:
+      213: -5938703937003425648
+    second: PC Computer - CrossCode - Bomb Explosions_01
+  - first:
+      213: 4543309228864816293
+    second: PC Computer - CrossCode - Bomb Explosions_18
+  - first:
+      213: 8981851531536392407
+    second: PC Computer - CrossCode - Bomb Explosions_13
+  - first:
+      213: 9109110108615106151
+    second: PC Computer - CrossCode - Bomb Explosions_17
+  - first:
+      213: 5418672113537169958
+    second: PC Computer - CrossCode - Bomb Explosions_19
+  - first:
+      213: -6988008832274590653
+    second: PC Computer - CrossCode - Bomb Explosions_20
+  - first:
+      213: 8238680832875799634
+    second: PC Computer - CrossCode - Bomb Explosions_21
+  - first:
+      213: 1060910007479990511
+    second: PC Computer - CrossCode - Bomb Explosions_22
+  - first:
+      213: -466834539485282315
+    second: PC Computer - CrossCode - Bomb Explosions_19
+  - first:
+      213: -8137983724862222829
+    second: PC Computer - CrossCode - Bomb Explosions_20
+  - first:
+      213: 294380588530535490
+    second: PC Computer - CrossCode - Bomb Explosions_21
+  - first:
+      213: 193694090784333821
+    second: PC Computer - CrossCode - Bomb Explosions_22
+  - first:
+      213: -1637986977306613276
+    second: PC Computer - CrossCode - Bomb Explosions_23
+  - first:
+      213: -8305146601838408958
+    second: PC Computer - CrossCode - Bomb Explosions_24
+  - first:
+      213: -8958268740660821383
+    second: PC Computer - CrossCode - Bomb Explosions_25
+  - first:
+      213: 9016876313096265737
+    second: PC Computer - CrossCode - Bomb Explosions_26
+  - first:
+      213: 5029783933049651328
+    second: PC Computer - CrossCode - Bomb Explosions_18
+  - first:
+      213: 4793331764886418322
+    second: PC Computer - CrossCode - Bomb Explosions_18
+  - first:
+      213: 107656092287517851
+    second: PC Computer - CrossCode - Bomb Explosions_33
+  - first:
+      213: -468673448368073497
+    second: PC Computer - CrossCode - Bomb Explosions_29
+  - first:
+      213: 3099047493960172494
+    second: PC Computer - CrossCode - Bomb Explosions_27
+  - first:
+      213: 601495892105482894
+    second: PC Computer - CrossCode - Bomb Explosions_28
+  - first:
+      213: -7100862926222989002
+    second: PC Computer - CrossCode - Bomb Explosions_37
+  - first:
+      213: 7242972370829238961
+    second: PC Computer - CrossCode - Bomb Explosions_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_02
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 54
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564ecac27a74f8b0800000000000000
+      internalID: -5119332242966034851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_03
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188cfd32c27f5900800000000000000
+      internalID: 675384647718045718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_04
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199074099f98b3980800000000000000
+      internalID: -8558094961927059055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_05
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 55
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1ba7393eb73920800000000000000
+      internalID: 2970051632230506005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_06
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05474e63db25fd1f0800000000000000
+      internalID: -1018004018139204528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_07
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 58
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a82fb449213b7e0800000000000000
+      internalID: -1751035401978344848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_08
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 58
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184cf7a09ea0d98d0800000000000000
+      internalID: -2838100194153741183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_09
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 59
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d1cb0483d7d770800000000000000
+      internalID: 8635603374592610557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 60
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1cfce6fc0d81ec0800000000000000
+      internalID: -3595894713119424095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 60
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b872a2a115d2cbb0800000000000000
+      internalID: -4917133571415443272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 64
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a5b11b5ed68bb0800000000000000
+      internalID: -4934011859017293098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09072b0eb3c759da0800000000000000
+      internalID: -5938703937003425648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 61
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cd331ca31d0f30800000000000000
+      internalID: 4543309228864816293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0668a4162f5ac70800000000000000
+      internalID: 8981851531536392407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 25
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb811b5787589f0800000000000000
+      internalID: -466834539485282315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e4dab4be2101f80800000000000000
+      internalID: -8137983724862222829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0228e599d51400800000000000000
+      internalID: 294380588530535490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 26
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffda44dfb320b200800000000000000
+      internalID: 193694090784333821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96ce6c583b449e0800000000000000
+      internalID: -1637986977306613276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 27
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b01ed0b213ebc80800000000000000
+      internalID: -8305146601838408958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 28
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720d661b06dda380800000000000000
+      internalID: -8958268740660821383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 28
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900acb9bb31622d70800000000000000
+      internalID: 9016876313096265737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 32
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e41d5a5bffee79f0800000000000000
+      internalID: -468673448368073497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 29
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec38f8bb647020b20800000000000000
+      internalID: 3099047493960172494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 30
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ddc6b351f85800800000000000000
+      internalID: 601495892105482894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 65
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92e3fbb5262a460800000000000000
+      internalID: 7251466496209988006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 33
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f693376a33b868170800000000000000
+      internalID: 8180378827117246831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 35
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d9965a41bace00800000000000000
+      internalID: 1065859194665161963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 67
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540eab5cfb6e0b30800000000000000
+      internalID: 4255457429525759063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 68
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5ce3b16f0a6e70800000000000000
+      internalID: 9109110108615106151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 36
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080446296d16dc540800000000000000
+      internalID: 5029783933049651328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 73
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b6a018d5558240800000000000000
+      internalID: 4793331764886418322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - CrossCode - Bomb Explosions_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 41
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9444b245a87e7100800000000000000
+      internalID: 107656092287517851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

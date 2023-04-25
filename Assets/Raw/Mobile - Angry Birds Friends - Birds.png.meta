@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 59aa2c2815466e1498324af90a2b9153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5225531390297430514
+    second: Mobile - Angry Birds Friends - Birds_0
+  - first:
+      213: 5734617803973819074
+    second: Mobile - Angry Birds Friends - Birds_1
+  - first:
+      213: -2997285972406659990
+    second: Mobile - Angry Birds Friends - Birds_2
+  - first:
+      213: -463968354148247587
+    second: Mobile - Angry Birds Friends - Birds_3
+  - first:
+      213: 3651546852959909241
+    second: Mobile - Angry Birds Friends - Birds_4
+  - first:
+      213: -3587565734458779886
+    second: Mobile - Angry Birds Friends - Birds_5
+  - first:
+      213: -2911420582306306075
+    second: Mobile - Angry Birds Friends - Birds_6
+  - first:
+      213: -2420001088763850786
+    second: Mobile - Angry Birds Friends - Birds_7
+  - first:
+      213: -6617537654566932343
+    second: Mobile - Angry Birds Friends - Birds_8
+  - first:
+      213: 4360052301072480586
+    second: Mobile - Angry Birds Friends - Birds_9
+  - first:
+      213: -4155902109941160916
+    second: Mobile - Angry Birds Friends - Birds_10
+  - first:
+      213: 1301023139506300250
+    second: Mobile - Angry Birds Friends - Birds_11
+  - first:
+      213: 6318261724127496313
+    second: Mobile - Angry Birds Friends - Birds_12
+  - first:
+      213: -1146789867595713438
+    second: Mobile - Angry Birds Friends - Birds_13
+  - first:
+      213: -1727795603386844976
+    second: Mobile - Angry Birds Friends - Birds_14
+  - first:
+      213: -8466761658892583963
+    second: Mobile - Angry Birds Friends - Birds_15
+  - first:
+      213: -2890229734233010342
+    second: Mobile - Angry Birds Friends - Birds_16
+  - first:
+      213: -3386348446395622889
+    second: Mobile - Angry Birds Friends - Birds_17
+  - first:
+      213: 935017119300469678
+    second: Mobile - Angry Birds Friends - Birds_18
+  - first:
+      213: -6149337245864778642
+    second: Mobile - Angry Birds Friends - Birds_19
+  - first:
+      213: -4067315102135413301
+    second: Mobile - Angry Birds Friends - Birds_20
+  - first:
+      213: -2015009411222541823
+    second: Mobile - Angry Birds Friends - Birds_21
+  - first:
+      213: 1018358453563054206
+    second: Mobile - Angry Birds Friends - Birds_22
+  - first:
+      213: 3682009953331346396
+    second: Mobile - Angry Birds Friends - Birds_23
+  - first:
+      213: 5763129799010067296
+    second: Mobile - Angry Birds Friends - Birds_24
+  - first:
+      213: 3797154372567055446
+    second: Mobile - Angry Birds Friends - Birds_25
+  - first:
+      213: -3999045610692027231
+    second: Mobile - Angry Birds Friends - Birds_26
+  - first:
+      213: 4170696119981917712
+    second: Mobile - Angry Birds Friends - Birds_27
+  - first:
+      213: -6136547385276241759
+    second: Mobile - Angry Birds Friends - Birds_28
+  - first:
+      213: 2019571502384309241
+    second: Mobile - Angry Birds Friends - Birds_29
+  - first:
+      213: 5927772139319406382
+    second: Mobile - Angry Birds Friends - Birds_30
+  - first:
+      213: -817940508317750205
+    second: Mobile - Angry Birds Friends - Birds_31
+  - first:
+      213: -3628913878494556373
+    second: Mobile - Angry Birds Friends - Birds_32
+  - first:
+      213: -1579143379894425629
+    second: Mobile - Angry Birds Friends - Birds_33
+  - first:
+      213: 1438073332167688440
+    second: Mobile - Angry Birds Friends - Birds_34
+  - first:
+      213: -8633181975507265541
+    second: Mobile - Angry Birds Friends - Birds_35
+  - first:
+      213: -3012792889469803221
+    second: Mobile - Angry Birds Friends - Birds_36
+  - first:
+      213: 8239052073036830116
+    second: Mobile - Angry Birds Friends - Birds_37
+  - first:
+      213: 569910053749756940
+    second: Mobile - Angry Birds Friends - Birds_38
+  - first:
+      213: -1120505986564694906
+    second: Mobile - Angry Birds Friends - Birds_39
+  - first:
+      213: -1829749132671767157
+    second: Mobile - Angry Birds Friends - Birds_40
+  - first:
+      213: 7752021297096591837
+    second: Mobile - Angry Birds Friends - Birds_41
+  - first:
+      213: 9099543331821977622
+    second: Mobile - Angry Birds Friends - Birds_42
+  - first:
+      213: 2107492013892824303
+    second: Mobile - Angry Birds Friends - Birds_43
+  - first:
+      213: -3141306034587028895
+    second: Mobile - Angry Birds Friends - Birds_44
+  - first:
+      213: 661714111532396911
+    second: Mobile - Angry Birds Friends - Birds_45
+  - first:
+      213: 8621620661027554529
+    second: Mobile - Angry Birds Friends - Birds_46
+  - first:
+      213: -6344040319082308577
+    second: Mobile - Angry Birds Friends - Birds_47
+  - first:
+      213: -4088923021986865515
+    second: Mobile - Angry Birds Friends - Birds_48
+  - first:
+      213: 2725991194797277251
+    second: Mobile - Angry Birds Friends - Birds_49
+  - first:
+      213: 8991431059646471121
+    second: Mobile - Angry Birds Friends - Birds_50
+  - first:
+      213: 39174201445000062
+    second: Mobile - Angry Birds Friends - Birds_51
+  - first:
+      213: 4944052165669200942
+    second: Mobile - Angry Birds Friends - Birds_52
+  - first:
+      213: 3943412223187398162
+    second: Mobile - Angry Birds Friends - Birds_53
+  - first:
+      213: 3621836182904440571
+    second: Mobile - Angry Birds Friends - Birds_54
+  - first:
+      213: -2618592590575482544
+    second: Mobile - Angry Birds Friends - Birds_55
+  - first:
+      213: 6722715365260277393
+    second: Mobile - Angry Birds Friends - Birds_56
+  - first:
+      213: 3470934685011898264
+    second: Mobile - Angry Birds Friends - Birds_57
+  - first:
+      213: -1283137781240110936
+    second: Mobile - Angry Birds Friends - Birds_58
+  - first:
+      213: -3992629991689503530
+    second: Mobile - Angry Birds Friends - Birds_59
+  - first:
+      213: -6438834848309801478
+    second: Mobile - Angry Birds Friends - Birds_60
+  - first:
+      213: 3595306548896291737
+    second: Mobile - Angry Birds Friends - Birds_61
+  - first:
+      213: 1083045411343132144
+    second: Mobile - Angry Birds Friends - Birds_62
+  - first:
+      213: 8278151631205508983
+    second: Mobile - Angry Birds Friends - Birds_63
+  - first:
+      213: -8985418798054922549
+    second: Mobile - Angry Birds Friends - Birds_64
+  - first:
+      213: 5057400064167451834
+    second: Mobile - Angry Birds Friends - Birds_65
+  - first:
+      213: -1133782240029745998
+    second: Mobile - Angry Birds Friends - Birds_66
+  - first:
+      213: 6091604112370999500
+    second: Mobile - Angry Birds Friends - Birds_67
+  - first:
+      213: -7442599556220759932
+    second: Mobile - Angry Birds Friends - Birds_68
+  - first:
+      213: 4882649284457746560
+    second: Mobile - Angry Birds Friends - Birds_69
+  - first:
+      213: -3731342748328003787
+    second: Mobile - Angry Birds Friends - Birds_70
+  - first:
+      213: -9082177497416893825
+    second: Mobile - Angry Birds Friends - Birds_71
+  - first:
+      213: -8246646689274740993
+    second: Mobile - Angry Birds Friends - Birds_72
+  - first:
+      213: 7085579416372934835
+    second: Mobile - Angry Birds Friends - Birds_73
+  - first:
+      213: -4970270773534939630
+    second: Mobile - Angry Birds Friends - Birds_74
+  - first:
+      213: -674853125243013522
+    second: Mobile - Angry Birds Friends - Birds_75
+  - first:
+      213: 2543372343486597469
+    second: Mobile - Angry Birds Friends - Birds_76
+  - first:
+      213: -3984576459359210153
+    second: Mobile - Angry Birds Friends - Birds_77
+  - first:
+      213: -3257677979069220458
+    second: Mobile - Angry Birds Friends - Birds_78
+  - first:
+      213: -6360337135054786147
+    second: Mobile - Angry Birds Friends - Birds_79
+  - first:
+      213: 4145796450511146142
+    second: Mobile - Angry Birds Friends - Birds_80
+  - first:
+      213: -6821710023537063254
+    second: Mobile - Angry Birds Friends - Birds_81
+  - first:
+      213: 3844827621766982420
+    second: Mobile - Angry Birds Friends - Birds_82
+  - first:
+      213: -8718870146910987176
+    second: Mobile - Angry Birds Friends - Birds_83
+  - first:
+      213: -2199865168314793040
+    second: Mobile - Angry Birds Friends - Birds_84
+  - first:
+      213: 6028178705667360831
+    second: Mobile - Angry Birds Friends - Birds_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1042
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649074d9408766d0800000000000000
+      internalID: -2997285972406659990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1042
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd798f77d37af89f0800000000000000
+      internalID: -463968354148247587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1042
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fe5b1486eca230800000000000000
+      internalID: 3651546852959909241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1045
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179835e8f7663ec0800000000000000
+      internalID: -3587565734458779886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1042
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72fdfd76e8897d0800000000000000
+      internalID: -2911420582306306075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 970
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97801900099fea750800000000000000
+      internalID: 6318261724127496313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 970
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b0fdf0b8c510f0800000000000000
+      internalID: -1146789867595713438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 970
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d835af8d03a508e0800000000000000
+      internalID: -1727795603386844976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 974
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7fcb4125008a80800000000000000
+      internalID: -8466761658892583963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 971
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f05cbae57d3e7d0800000000000000
+      internalID: -2890229734233010342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 970
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a94e697064101d0800000000000000
+      internalID: -3386348446395622889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 872
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7854a63e9fe12e00800000000000000
+      internalID: 1018358453563054206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 872
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb74cf5b80291330800000000000000
+      internalID: 3682009953331346396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 873
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a6709400caff40800000000000000
+      internalID: 5763129799010067296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 872
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3e2e98c332b430800000000000000
+      internalID: 3797154372567055446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 872
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acdd1674398088c0800000000000000
+      internalID: -3999045610692027231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 878
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164f99160a41e930800000000000000
+      internalID: 4170696119981917712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 873
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e1497aaa96daa0800000000000000
+      internalID: -6136547385276241759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 821
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f041dc831015f310800000000000000
+      internalID: 1438073332167688440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 823
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7959cdbb6c03880800000000000000
+      internalID: -8633181975507265541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 821
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25645954d86036d0800000000000000
+      internalID: -3012792889469803221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 819
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55e43453ef65270800000000000000
+      internalID: 8239052073036830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 738
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2507bbdc6b96e0800000000000000
+      internalID: -1829749132671767157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 738
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd984b83c46b49b60800000000000000
+      internalID: 7752021297096591837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 737
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100687e272184e70800000000000000
+      internalID: 9099543331821977622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 710
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feced0712d05f3d10800000000000000
+      internalID: 2107492013892824303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 737
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16236ad0ec6d764d0800000000000000
+      internalID: -3141306034587028895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 600
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400cba7c8aa4d520800000000000000
+      internalID: 2725991194797277251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 600
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db54acf8eaf7cc70800000000000000
+      internalID: 8991431059646471121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 600
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732d798abc2b8000800000000000000
+      internalID: 39174201445000062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 491
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059474ba9e3e8abd0800000000000000
+      internalID: -2618592590575482544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 491
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19636689102eb4d50800000000000000
+      internalID: 6722715365260277393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 491
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f67bac4bc3b2030800000000000000
+      internalID: 3470934685011898264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 502
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ec4f7cf0613ee0800000000000000
+      internalID: -1283137781240110936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 491
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb6c92d245798c0800000000000000
+      internalID: -3992629991689503530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_60
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8613e1d9a4a6a0800000000000000
+      internalID: -6438834848309801478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 402
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc516a4f0ff340f0800000000000000
+      internalID: -1133782240029745998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 330
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ae2e5aa9b98450800000000000000
+      internalID: 6091604112370999500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_68
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 402
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805bfdd22396b890800000000000000
+      internalID: -7442599556220759932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 402
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805be2a7a7a2c340800000000000000
+      internalID: 4882649284457746560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87abc20f8055260800000000000000
+      internalID: 7085579416372934835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_74
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 117
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a1f9a01d060bb0800000000000000
+      internalID: -4970270773534939630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f35a78a072a6f0800000000000000
+      internalID: -674853125243013522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0a5660ea6451a0800000000000000
+      internalID: -6821710023537063254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be70ae9529b5530800000000000000
+      internalID: 3844827621766982420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cdc92cbc9500780800000000000000
+      internalID: -8718870146910987176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_84
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b387d8e8428871e0800000000000000
+      internalID: -2199865168314793040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Friends - Birds_85
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3880e9189468a350800000000000000
+      internalID: 6028178705667360831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
